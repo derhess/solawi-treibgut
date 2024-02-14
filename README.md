@@ -28,8 +28,12 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 
 ## Solar, PV und damit verbundene Geräte
 - [Schattensimulator übers Jahr](http://shadowcalculator.eu/#/lat/50.37842191448231/lng/8.687300704961647)
+
+### Solar Pumpen
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
 - [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
+
+### Mobile, Hybride und Insel Stromgenerator und Speicher Lösungen
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
 - [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
 - [Victron : der Mercedes unter den Inselanlagen PV Systeme - sehr großes Ecosystem](https://www.victronenergy.de/)
