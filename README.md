@@ -1,6 +1,10 @@
 # Awesome  SoLaWi-Treibgut
 Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Betrieb
 
+## Elektronische Gartenwerkzeuge
+- [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
+- [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
+- [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
 
 ## Verpackung, Lagerung, und andere Behälter
 - [Rubbermaid: Wasserbehälter und Lebensmittelboxen für Waschstraße und Kühlhaus](https://www.rubbermaid.eu/)
@@ -27,3 +31,5 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
 - [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
+- [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
+- [Victron : der Mercedes unter den Inselanlagen PV Systeme - sehr großes Ecosystem](https://www.victronenergy.de/)
