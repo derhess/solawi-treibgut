@@ -24,3 +24,6 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 
 ## Solar, PV und damit verbundene Geräte
 - [Schattensimulator übers Jahr](http://shadowcalculator.eu/#/lat/50.37842191448231/lng/8.687300704961647)
+- [Lorenz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
+- [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
+- [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
