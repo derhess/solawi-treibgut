@@ -37,3 +37,29 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
 - [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
 - [Victron : der Mercedes unter den Inselanlagen PV Systeme - sehr großes Ecosystem](https://www.victronenergy.de/)
+
+## Kreislauf / System Design Aspekte für unsere Market Garden
+
+Wir haben eine Streuobstwiese in einem Naturschutzgebiet nicht weit entfernt von unserer Ackerfläche. Es fallen somit regelmäßig viel Gehölzschnitt an. Auch andere Initiativen, wie z.B. NABU Ober-Mörlen versinklen förmlich in Gehölzschnitt. Also in allem eine gute Kohlenstoffquelle
+
+### Wood Chips / Hackschnitzel / Gehölz
+
+Quelle kann Streuobstwiese, Agroforst, Hecken oder sonstiges sein. Bei einigen Landschafts- und Baumpflege Firmen kann man auch immer mal wieder anfragen. GaLa Bau ist auch möglich, aber vorsicht, unbedingt vorher das Material sichten und prüfen ob es sich um "unbehandeltes" Gehölz handelt. 
+
+Hackschnitzel sind aber nicht gleich Hackschnitzel, deswegen bitte für den betreffenden Anwendungsfall, die passende Hackschnitzel Art.
+
+- [Empfehlung: Ben Raskin - The Woodchip Handbook - A Complete Guide for Farmers, Gardeners and Landscapers](https://www.chelseagreen.com/product/the-woodchip-handbook/)
+- [Ben Raskin - Wonder of Woodchip](https://www.youtube.com/watch?v=9XZCn0UiEE0)
+
+### Gehölz kleiner gleich 4cm Durchmesser
+
+Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Frühling. Frische Äste mit Durchmesser von kleiner 5cm verwenden. Wenn möglich Hackschnitzellänge von 4-6cm auswählen.
+
+- [Ramial Wood Chips im Market Garden](https://www.youtube.com/watch?v=ybGE3vflFCo )
+- Für Kompost eine Länge von 4-6cm auswählen
+
+### Gehölz größer 4cm Durchmesser und bereits ein paar Monate alt
+
+- Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden. 
+
+
