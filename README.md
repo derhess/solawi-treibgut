@@ -41,7 +41,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
-- [Heizungsbau : HD24 Monage Schienen]([https://www.heizungsdiscount24.de/befestigungstechnik/hd24-montageschiene-profil-2718-laenge-2-m-staerke-125-mm-verzinkt.html](https://www.heizungsdiscount24.de/marken/heizungsdiscount24/befestigungstechnik/schienen/))
+- [Heizungsbau : HD24 Monage Schienen](https://www.hd24.de/befestigungstechnik.php)
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw. 
 
 ## Solar, PV und damit verbundene Geräte
