@@ -1,6 +1,14 @@
 # Awesome  SoLaWi-Treibgut
 Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Betrieb
 
+## Gemüsebau / Gartenbedarf
+
+- [Meyer](https://www.meyer-shop.com/) (Niederlassung in Frankfurt)
+- [Hartmann Brockhaus](https://www.hartmann-brockhaus.de/)
+- [Brandner Landtechnik]https://www.brander-landtechnik.de/gemueseanbau-gartenbau/
+- [Terrateck](https://www.terrateck.com/de/)
+- sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
+
 
 # Anbau Kits
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
@@ -27,6 +35,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ## Montage Kits
 Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkeit wäre schön, daher einpaark Montagekits
 
+- [Schraubfundamente](https://www.zimmereibedarf.com/de/verbindungssysteme/schraubfundamente) : Befestingung für Boden - meistens nicht Baugenehmigungspflichtig - leicht zurückzubauen
 - [Bullfix : Montageprofile für Regale usw.](https://www.bullfix.net/montageprofile/)
 - [Rohrverbinder : Gerüstbau, Mini-Gewächshaus oder anderes](https://www.rohr-verbinder.de/)
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
