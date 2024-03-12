@@ -1,6 +1,11 @@
 # Awesome  SoLaWi-Treibgut
 Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Betrieb
 
+
+# Anbau Kits
+- [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
+- [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
+
 ## Elektronische Gartenwerkzeuge
 - [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
@@ -27,6 +32,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
+- [Heizungsbau : HD24 Monage Schienen]([https://www.heizungsdiscount24.de/befestigungstechnik/hd24-montageschiene-profil-2718-laenge-2-m-staerke-125-mm-verzinkt.html](https://www.heizungsdiscount24.de/marken/heizungsdiscount24/befestigungstechnik/schienen/))
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw. 
 
 ## Solar, PV und damit verbundene Geräte
@@ -35,6 +41,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 ### Solar Pumpen
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
 - [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
+- [Grundfos](https://product-selection.grundfos.com/de/applications/solar-water-pumping-solutions/agriculture-solar-solutions?tab=products)
 
 ### Mobile, Hybride und Insel Stromgenerator und Speicher Lösungen
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
