@@ -42,6 +42,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
 - [Heizungsbau : HD24 Monage Schienen](https://www.hd24.de/befestigungstechnik.php)
+- [Spedition : lasi24-shop - Ladungssicherung Austatter](https://www.lasi24-shop.de/anwendungsbereich/?p=2)
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw. 
 
 ## Solar, PV und damit verbundene Geräte
