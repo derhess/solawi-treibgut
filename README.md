@@ -82,6 +82,7 @@ Hackschnitzel sind aber nicht gleich Hackschnitzel, deswegen bitte für den betr
 
 - [Empfehlung: Ben Raskin - The Woodchip Handbook - A Complete Guide for Farmers, Gardeners and Landscapers](https://www.chelseagreen.com/product/the-woodchip-handbook/)
 - [Ben Raskin - Wonder of Woodchip](https://www.youtube.com/watch?v=9XZCn0UiEE0)
+- [Gehölz Kompost und Bioreaktor](https://archive.org/details/fe_Another_Kind_of_Garden-The_Methods_of_Jean_Pain) auf Basis von Jean Pain
 
 ### Gehölz kleiner gleich 4cm Durchmesser
 
