@@ -1,4 +1,4 @@
-# Awesome  SoLaWi-Treibgut
+# Awesome  SoLaWi-Treibguthttps://jsoncrack.com/editor
 Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Betrieb
 
 ## Gemüsebau / Gartenbedarf
@@ -36,6 +36,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkeit wäre schön, daher einpaark Montagekits
 
 - [Schraubfundamente](https://www.zimmereibedarf.com/de/verbindungssysteme/schraubfundamente) : Befestingung für Boden - meistens nicht Baugenehmigungspflichtig - leicht zurückzubauen
+- Steckverbinder für Überdachung Konstruktion : [Suki](https://suki.com/pwc/index.html) und [Habercube](https://ideamo.shop/collections/holzverbindungselemente) 
 - [Bullfix : Montageprofile für Regale usw.](https://www.bullfix.net/montageprofile/)
 - [Rohrverbinder : Gerüstbau, Mini-Gewächshaus oder anderes](https://www.rohr-verbinder.de/)
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
