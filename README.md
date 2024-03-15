@@ -63,6 +63,9 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 
 Wir haben eine Streuobstwiese in einem Naturschutzgebiet nicht weit entfernt von unserer Ackerfläche. Es fallen somit regelmäßig viel Gehölzschnitt an. Auch andere Initiativen, wie z.B. NABU Ober-Mörlen versinklen förmlich in Gehölzschnitt. Also in allem eine gute Kohlenstoffquelle
 
+Methoden und Ansätze um für eine nachhaltigen Gemüseanbau
+- [60 : 30 : 10 Prinzip](https://growsustainability.org/grow-biointensive) im bio-intensiven Anbau von John Jeavons
+
 ### Kompost
 
 Eine eigene Kompostwirtschaft kann sehr zeit- und arbeitsintensiv sein. Zudem hochqualitativen bzw. gesunden Kompost herzustellen ist nicht trivial und komplex, wie andere Produktionsströme, wie z.B. eine eigene Jungpflanzenanzuch. Es sollte immer eine "Make or Buy" Evaluation durchfeführt werden. Aktuell können wir aufgrund mangelender Resourcen keine Eigenproduktion durchführen, deswegen wird Kompost von Außen eingekauft. 
