@@ -67,12 +67,12 @@ Wir haben eine Streuobstwiese in einem Naturschutzgebiet nicht weit entfernt von
 
 Eine eigene Kompostwirtschaft kann sehr zeit- und arbeitsintensiv sein. Zudem hochqualitativen bzw. gesunden Kompost herzustellen ist nicht trivial und komplex, wie andere Produktionsströme, wie z.B. eine eigene Jungpflanzenanzuch. Es sollte immer eine "Make or Buy" Evaluation durchfeführt werden. Aktuell können wir aufgrund mangelender Resourcen keine Eigenproduktion durchführen, deswegen wird Kompost von Außen eingekauft. 
 
-Gute Literatur für den eigenen On-Farm Kompost
+### Literatur für On-Farm Kompost
 
 - [The Rodale Book of Composting](https://www.amazon.com/Rodale-Composting-Newly-Revised-Updated/dp/1635651026)
 - [The Composting Handbook :: A how-to and why manual for farm, municipal, institutional and commercial composters](https://shop.elsevier.com/books/the-composting-handbook/rynk/978-0-323-85602-7?country=DE&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=dachpmax&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVORLOfmyOyJRFN3k_TgN_XUxgu_DjXClVH9INnQ1N-yjWnwarBRYLRoCVZcQAvD_BwE&gclsrc=aw.ds)
 - [Kompostierung und Erdenherstellung](https://www.sonnenerde.at/de/produkt/buch-kompostierung-und-erdenherstellung)
-- [Die Mikrobielle Carbonisierung von Witte](Die Mikrobielle Carbonisierung) und ein [Workshop von Bioland auf YouTube](https://www.youtube.com/watch?v=7Hxxsh8Q3HE)
+- [Die Mikrobielle Carbonisierung von Witte](https://www.mc-bicon.de/das-buch.php) und ein [Workshop von Bioland auf YouTube](https://www.youtube.com/watch?v=7Hxxsh8Q3HE)
 
 ### Wood Chips / Hackschnitzel / Gehölz
 
