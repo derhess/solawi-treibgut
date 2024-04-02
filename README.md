@@ -9,8 +9,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Terrateck](https://www.terrateck.com/de/)
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
 
-
-# Anbau Kits
+## Anbau Kits
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
 
@@ -96,6 +95,11 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 
 ### Gehölz größer 4cm Durchmesser und bereits ein paar Monate alt
 
-- Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden. 
+- Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden.
+
+## Schädlingsmanagement
+
+### Nagetier
+- [erminea : Fangwannen, Wieselnistkästen, und mobile Greifvogelstangen] (http://www.erminea.com/Wieselkasten.html)
 
 
