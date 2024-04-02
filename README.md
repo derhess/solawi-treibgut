@@ -100,6 +100,6 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 ## Schädlingsmanagement
 
 ### Nagetier
-- [erminea : Fangwannen, Wieselnistkästen, und mobile Greifvogelstangen] (http://www.erminea.com/Wieselkasten.html)
+- [erminea : Fangwannen, Wieselnistkästen, und mobile Greifvogelstangen](http://www.erminea.com/Wieselkasten.html)
 
 
