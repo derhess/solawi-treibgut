@@ -20,6 +20,26 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ## Bewässerungstechnik
 
+## Ernte Werkzeuge / Tools / usw.
+
+### Salat Ernte
+
+- [Quick Cut -Schnittsalat Ernte mit Akkuschrauber](https://www.hartmann-brockhaus.de/detail/Quick-Cut-Harvester---Schnittsalaternter)
+
+### Post-Ernte Werkzeuge
+
+#### Waschen
+
+- [UVM Agriculture Eng. :: DIY Bubbler für Salate und andere Blattgemüse](https://blog.uvm.edu/cwcallah/2021/10/06/building-a-better-greens-bubbler/)
+- [Neversink :: Bubbler System](https://neversinktools.com/en-fr/collections/wash-and-pack/products/greens-bubbler)
+- [Neversink :: Wasch Stativ mit Fusspedal]([Bunch Cleaning Stand with Pedal](https://neversinktools.com/en-fr/collections/wash-and-pack/products/wash-gun-pedal)
+- [Terrateck :: Reinigungspistole](https://www.terrateck.com/de/nettoyage/82-pistolet-de-nettoyage-legumes.html)
+ 
+#### Bindemaschine / Bündelung
+- [Japan Agritrading :: Tabanera Gemüsebindebandspender 300-V :: Simpel Version](https://japan-agritrading.com/de/products/tabanera-vegetable-binding-tape-dispenser-300-v)
+- [Japan Agritrading :: Tabanera 3000-V Gemüsebindemaschine :: Standard edition](https://japan-agritrading.com/de/products/tabanera-3000-v-vegetable-binding-machine?_pos=8&_fid=e7ce04c15&_ss=c)
+
+
 ## Verpackung, Lagerung, und andere Behälter
 - [Rubbermaid: Wasserbehälter und Lebensmittelboxen für Waschstraße und Kühlhaus](https://www.rubbermaid.eu/)
 - [Ringoplast: NAPF System - Erntekisten und SoLaWi Mitglieder Kiste](https://ringoplast.de/)
