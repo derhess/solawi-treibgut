@@ -82,6 +82,9 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
 - [Victron : der Mercedes unter den Inselanlagen PV Systeme - sehr großes Ecosystem](https://www.victronenergy.de/)
 
+#### Speicherlösungen ausm Baugewerbe
+- [nagel : Energiespeicher](https://www.nagel-baugeraeteshop.de/shop.php?cat=673112555&name=Energiespeicher&SessID=fa3d92f373593dc3615977663c7b197f)
+
 ## Kreislauf / System Design Aspekte für unsere Market Garden
 
 Wir haben eine Streuobstwiese in einem Naturschutzgebiet nicht weit entfernt von unserer Ackerfläche. Es fallen somit regelmäßig viel Gehölzschnitt an. Auch andere Initiativen, wie z.B. NABU Ober-Mörlen versinklen förmlich in Gehölzschnitt. Also in allem eine gute Kohlenstoffquelle
@@ -126,5 +129,10 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 ### Nagetier
 - [erminea : Fangwannen, Wieselnistkästen, und mobile Greifvogelstangen](http://www.erminea.com/Wieselkasten.html)
 - [NABU : Nistkästen Greifvögel](https://www.nabu-rlp-sued.de/artenschutz/bauanleitungen-f%C3%BCr-nisthilfen/)
+
+## Schulungen, Webinare
+- [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
+- [Webinar: Project Planning for Postharvest Efficiency, Profitability & Food](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
+- [Webinar:Food Safety for Wash/Pack Facilities on the Farm](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
 
 
