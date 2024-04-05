@@ -13,3 +13,4 @@
 - [Bins, Buckets, Baskets & Totes](https://blog.uvm.edu/cwcallah/2018/11/14/bins-buckets-baskets-totes/)
 - [Hanging Hoses](https://blog.uvm.edu/cwcallah/2018/11/16/hanging-hoses/)
 - [Thermostats for Agriculture](https://blog.uvm.edu/cwcallah/2016/05/03/thermostats-for-agriculture/)
+- [CoolBots(TM): Inexpensive Cold Storage](https://blog.uvm.edu/cwcallah/2013/03/20/coolbotstm-inexpensive-cold-storage/)
