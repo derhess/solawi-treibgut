@@ -64,6 +64,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Rohrverbinder : Gerüstbau, Mini-Gewächshaus oder anderes](https://www.rohr-verbinder.de/)
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
+- [Dold : Meachatronik Profile](https://www.dold-mechatronik.de/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
 - [Heizungsbau : HD24 Monage Schienen](https://www.hd24.de/befestigungstechnik.php)
 - [Spedition : lasi24-shop - Ladungssicherung Austatter](https://www.lasi24-shop.de/anwendungsbereich/?p=2)
