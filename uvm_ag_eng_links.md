@@ -12,3 +12,4 @@
 - [Produce Tracking and Traceability](https://blog.uvm.edu/cwcallah/produce-tracking-and-traceability/)
 - [Bins, Buckets, Baskets & Totes](https://blog.uvm.edu/cwcallah/2018/11/14/bins-buckets-baskets-totes/)
 - [Hanging Hoses](https://blog.uvm.edu/cwcallah/2018/11/16/hanging-hoses/)
+- [Thermostats for Agriculture](https://blog.uvm.edu/cwcallah/2016/05/03/thermostats-for-agriculture/)
