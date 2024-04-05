@@ -11,7 +11,7 @@
 - [Cooler Construction Options – Walls and Panels](https://blog.uvm.edu/cwcallah/2018/12/22/cooler-construction-options-walls-and-panels/)
 - [Crop Storage Planning Tool](https://blog.uvm.edu/cwcallah/crop-storage-planning-tool/)
 - [Produce Tracking and Traceability](https://blog.uvm.edu/cwcallah/produce-tracking-and-traceability/)
-- [Bins, Buckets, Baskets & Totes](https://blog.uvm.edu/cwcallah/2018/11/14/bins-buckets-baskets-totes/)
+- [Bins, Buckets, Baskets & Totes](https://blog.uvm.edu/cwcallah/2018/11/14/bins-buckets-baskets-totes/) / [Video Playlist](https://www.youtube.com/watch?v=xGv56JqV8us&list=PLRhtZw1o6RdEg0SsLSKvtFKDbC4Q0vuCV&index=2)
 - [Hanging Hoses](https://blog.uvm.edu/cwcallah/2018/11/16/hanging-hoses/)
 - [Thermostats for Agriculture](https://blog.uvm.edu/cwcallah/2016/05/03/thermostats-for-agriculture/)
 - [CoolBots(TM): Inexpensive Cold Storage](https://blog.uvm.edu/cwcallah/2013/03/20/coolbotstm-inexpensive-cold-storage/)
