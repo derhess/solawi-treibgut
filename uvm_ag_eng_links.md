@@ -1,6 +1,7 @@
 # UVM EXTENSION AG ENGINEERING link list
 
 - [Rats and rodents](https://blog.uvm.edu/cwcallah/2016/10/14/rats-and-other-rodents/)
+- [Floor Design for Vegetable Wash, Pack and Storage Areas](https://blog.uvm.edu/cwcallah/2018/05/21/floor-design-for-vegetable-wash-pack-and-storage-areas/)
 - [Vegetable Wash Sinks, Tanks, Tubs and Basins: Upgrades for Efficiency and Ergonomics](https://blog.uvm.edu/cwcallah/2019/01/25/vegetable-wash-sinks-tanks-tubs-and-basins-upgrades-for-efficiency-and-ergonomics/)
 - [Greens Spinners for Farm Use](https://blog.uvm.edu/cwcallah/2018/07/20/greens-spinners-for-farm-use/)
 - [Cleaning Produce Washing Equipment: Root Barrel Washer Checklist](https://foodsafetyclearinghouse.org/resources/cleaning-produce-washing-equipment-root-barrel-washer-checklist)
