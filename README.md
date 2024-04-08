@@ -21,6 +21,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Ausländische Folientunnel Herstelle
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
 - [UK :: First Tunnel](https://www.firsttunnels.co.uk/)
+- [UK :: Premiertunnels](https://www.premierpolytunnels.co.uk/shop/polytunnels/21ft-wide/)
+- [UK: extrem sturmsicher Tunnel : Polycrub](https://www.polycrub.co.uk/)
 - [Belgien :: Filclair mit deutschen Montage Service!](https://www.nitsch-gartenbautechnik.de/produkte/kat/filclair.html)
 
 ## Elektronische Gartenwerkzeuge
