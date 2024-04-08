@@ -13,6 +13,16 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
 
+## Folientunnel Hersteller
+- [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/)
+- [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
+- [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
+
+### Ausländische Folientunnel Herstelle
+- [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
+- [UK :: First Tunnel](https://www.firsttunnels.co.uk/)
+- [Belgien :: Filclair mit deutschen Montage Service!](https://www.nitsch-gartenbautechnik.de/produkte/kat/filclair.html)
+
 ## Elektronische Gartenwerkzeuge
 - [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
