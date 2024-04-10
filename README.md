@@ -138,7 +138,7 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden.
 
 ### Material zur Wiederverwendung
-- [Holz :: Eisenbahnschwellen können für Beetbegrenzung, Wegen, oder Terassenbau](https://www.eisenbahnschwellen.com/index.php?id=58)
+- [Holz :: unbehandelte(!) Eisenbahnschwellen können für Beetbegrenzung, Wegen, oder Terassenbau](https://www.eisenbahnschwellen.com/index.php?id=58)
 
 ## Schädlingsmanagement
 
