@@ -84,6 +84,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 
 ## Solar, PV und damit verbundene Geräte
 - [Schattensimulator übers Jahr](http://shadowcalculator.eu/#/lat/50.37842191448231/lng/8.687300704961647)
+- [Sonnverlauf Simulator für Ober-Mörlen](https://www.sonnenverlauf.de/#/50.378,8.6874,16/2024.03.01/09:54/1/3)
 - [Formel Reihenabstand Module Flachdach](https://echtsolar.de/abstand-photovoltaik-flachdach/)
 
 ### Solar Pumpen
