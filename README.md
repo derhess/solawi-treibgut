@@ -1,4 +1,4 @@
-# Awesome  SoLaWi-Treibguthttps://jsoncrack.com/editor
+# Awesome  SoLaWi-Treibgut
 Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Betrieb
 
 ## Gemüsebau / Gartenbedarf
@@ -31,6 +31,13 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
 
 ## Bewässerungstechnik
+
+## Dünger
+
+### Flüssig und Blattdünger
+- [Frühjahr und Herbst / und auch für Blütenentwicklung :: Provita® Vinasse Bio Flüssigdünger](https://www.agrarshop-online.com/beckmann-profi-provita-aminofert-vinasse-)fluessig.php
+- [Jauche :: Brennnesselpellets](https://www.andermatt-biogarten.de/de-de/brennnesselpellets--p19930?variant=16932)
+- [Jauche :: Schachtelhalmpellets](https://www.andermatt-biogarten.de/de-de/schachtelhalmpellets--p19931?variant=16933)
 
 ## Ernte Werkzeuge / Tools / usw.
 
