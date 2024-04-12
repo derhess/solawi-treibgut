@@ -16,6 +16,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ## Folientunnel Hersteller
 - [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/)
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
+- [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser)
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
 
 ### Ausländische Folientunnel Herstelle
