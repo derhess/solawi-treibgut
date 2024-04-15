@@ -100,6 +100,11 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
 - [Grundfos](https://product-selection.grundfos.com/de/applications/solar-water-pumping-solutions/agriculture-solar-solutions?tab=products)
 
+### Montage
+
+- [Montage Schienen C Profil mit mind. 2mm Stahlblech](https://www.hoerr-edelstahl.de/Befestigungsmaterial/C-Schienen-und-Zubehoer/C-Montageschiene-36-36-Schiene-Edelstahl-fuer-Rohrschellen-PV-Solar-Befestigung-1700054-00111.html)
+- [Baywa :: Montagesystem novotegra](https://solar-distribution.baywa-re.de/montagesystem-novotegra/) mit [Einführungsvideo](https://www.youtube.com/watch?v=RcaMXvaKvyQ)
+
 ### Mobile, Hybride und Insel Stromgenerator und Speicher Lösungen
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
 - [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
