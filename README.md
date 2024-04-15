@@ -124,14 +124,14 @@ Methoden und Ansätze um für eine nachhaltigen Gemüseanbau
 
 Eine eigene Kompostwirtschaft kann sehr zeit- und arbeitsintensiv sein. Zudem hochqualitativen bzw. gesunden Kompost herzustellen ist nicht trivial und komplex, wie andere Produktionsströme, wie z.B. eine eigene Jungpflanzenanzuch. Es sollte immer eine "Make or Buy" Evaluation durchfeführt werden. Aktuell können wir aufgrund mangelender Resourcen keine Eigenproduktion durchführen, deswegen wird Kompost von Außen eingekauft. 
 
-### Literatur für On-Farm Kompost
+#### Literatur für On-Farm Kompost
 
 - [The Rodale Book of Composting](https://www.amazon.com/Rodale-Composting-Newly-Revised-Updated/dp/1635651026)
 - [The Composting Handbook :: A how-to and why manual for farm, municipal, institutional and commercial composters](https://shop.elsevier.com/books/the-composting-handbook/rynk/978-0-323-85602-7?country=DE&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=dachpmax&gad_source=1&gclid=CjwKCAjw48-vBhBbEiwAzqrZVORLOfmyOyJRFN3k_TgN_XUxgu_DjXClVH9INnQ1N-yjWnwarBRYLRoCVZcQAvD_BwE&gclsrc=aw.ds)
 - [Kompostierung und Erdenherstellung](https://www.sonnenerde.at/de/produkt/buch-kompostierung-und-erdenherstellung)
 - [Die Mikrobielle Carbonisierung von Witte](https://www.mc-bicon.de/das-buch.php) und ein [Workshop von Bioland auf YouTube](https://www.youtube.com/watch?v=7Hxxsh8Q3HE)
 
-### Wood Chips / Hackschnitzel / Gehölz
+#### Wood Chips / Hackschnitzel / Gehölz
 
 Quelle kann Streuobstwiese, Agroforst, Hecken oder sonstiges sein. Bei einigen Landschafts- und Baumpflege Firmen kann man auch immer mal wieder anfragen. GaLa Bau ist auch möglich, aber vorsicht, unbedingt vorher das Material sichten und prüfen ob es sich um "unbehandeltes" Gehölz handelt. 
 
@@ -141,16 +141,23 @@ Hackschnitzel sind aber nicht gleich Hackschnitzel, deswegen bitte für den betr
 - [Ben Raskin - Wonder of Woodchip](https://www.youtube.com/watch?v=9XZCn0UiEE0)
 - [Gehölz Kompost und Bioreaktor](https://archive.org/details/fe_Another_Kind_of_Garden-The_Methods_of_Jean_Pain) auf Basis von Jean Pain
 
-### Gehölz kleiner gleich 4cm Durchmesser
+#### Gehölz kleiner gleich 4cm Durchmesser
 
 Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Frühling. Frische Äste mit Durchmesser von kleiner 5cm verwenden. Wenn möglich Hackschnitzellänge von 4-6cm auswählen.
 
 - [Ramial Wood Chips im Market Garden](https://www.youtube.com/watch?v=ybGE3vflFCo )
 - Für Kompost eine Länge von 4-6cm auswählen
 
-### Gehölz größer 4cm Durchmesser und bereits ein paar Monate alt
+#### Gehölz größer 4cm Durchmesser und bereits ein paar Monate alt
 
 - Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden.
+
+#### Maschinen für Small-Scale Kompostwirtschaft
+- [Screener :: IDM :: SLG-78VF TOPSOIL & ROCK SCREENER](https://idmcabc.com/topsoil-screeners/desite-slg78vf/) via [LivingSoil Podcast](https://www.youtube.com/watch?v=wLaG47P-Q24)
+- [Wendemaschine :: Gujer Innotec :: Kompostwender TG 201 / 231  / 263](https://www.gujerinnotec.com/de/kompostwender.html) Preis ab bzw. über 20 TEur (für KOMPOSTWENDER SGF 2100 B & E)
+- [Kompostwender Compost Systems :: z.B. CMC SF 200](https://www.compost-systems.com/de/produkte/maschinentechnik/selbstfahrende-kompostwender) Preise auch ab 20 TEur
+- [E-Wender :: selbstfahrende Kompostwender mit Elektrobatterie](https://www.pusch-schinnerl.com/e-wender/) entwickelt zusammen mit Gerald Dunst von Sonnenerde
+- [Komptech :: Gesamtmaschinenpark für Kompostbetriebe](https://www.komptech.com/)
 
 ### Material zur Wiederverwendung
 - [Holz :: unbehandelte(!) Eisenbahnschwellen können für Beetbegrenzung, Wegen, oder Terassenbau](https://www.eisenbahnschwellen.com/index.php?id=58)
