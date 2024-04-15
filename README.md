@@ -152,6 +152,12 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 
 - Mit einem Kontiki oder anderes Holzvergaser Verfahren Pflanzenkohle herstellen. Die Wärme könnte im Winter Gewächshaus verwendet werden.
 
+#### stationäres Kompostsystem
+- [UK :: Ridan :: Pro System Food Waste Composter](https://www.ridan.co.uk/our-composters/ridan-range/ridan-pro-system-food-waste-composter/)
+- [US & Israel :: Homebiogas](https://www.homebiogas.com/eu/shop/backyard-systems/)
+- [Selbstbauanleitung :: Johnson Su Bioreaktor](https://regenerationinternational.org/wp-content/uploads/2017/09/Johnson-Su-Bioreactor.pdf) ein Kompostverfahren mit einem höheren Pilz/Bakterien Verhältnis
+
+
 #### Maschinen für Small-Scale Kompostwirtschaft
 - [Screener :: IDM :: SLG-78VF TOPSOIL & ROCK SCREENER](https://idmcabc.com/topsoil-screeners/desite-slg78vf/) via [LivingSoil Podcast](https://www.youtube.com/watch?v=wLaG47P-Q24)
 - [Wendemaschine :: Gujer Innotec :: Kompostwender TG 201 / 231  / 263](https://www.gujerinnotec.com/de/kompostwender.html) Preis ab bzw. über 20 TEur (für KOMPOSTWENDER SGF 2100 B & E)
