@@ -6,6 +6,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Meyer](https://www.meyer-shop.com/) (Niederlassung in Frankfurt)
 - [Hartmann Brockhaus](https://www.hartmann-brockhaus.de/)
 - [Brandner Landtechnik](https://www.brander-landtechnik.de/gemueseanbau-gartenbau/)
+- [H. Nitsch & Sohn GmbH & Co. KG](https://www.nitsch-gartenbautechnik.de/)
 - [Gartenbautechnik Geereking](https://www.gartenbautechnikgeereking.de/)
 - [Terrateck](https://www.terrateck.com/de/)
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
