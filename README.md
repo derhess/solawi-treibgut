@@ -6,8 +6,11 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Meyer](https://www.meyer-shop.com/) (Niederlassung in Frankfurt)
 - [Hartmann Brockhaus](https://www.hartmann-brockhaus.de/)
 - [Brandner Landtechnik](https://www.brander-landtechnik.de/gemueseanbau-gartenbau/)
+- [Gartenbautechnik Geereking](https://www.gartenbautechnikgeereking.de/)
 - [Terrateck](https://www.terrateck.com/de/)
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
+
+
 
 ## Anbau Kits
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
