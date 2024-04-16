@@ -62,6 +62,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Neversink :: Bubbler System](https://neversinktools.com/en-fr/collections/wash-and-pack/products/greens-bubbler)
 - [Neversink :: Wasch Stativ mit Fusspedal](https://neversinktools.com/en-fr/collections/wash-and-pack/products/wash-gun-pedal)
 - [Terrateck :: Reinigungspistole](https://www.terrateck.com/de/nettoyage/82-pistolet-de-nettoyage-legumes.html)
+- [Heuling Maschinenbau :: Gemüsewaschtrommel z.B. Typ 815](https://www.heuling.de/gemuesereinigung/gemuesewascher) für Wurzel und Knollengemüse :: Preis ab ca. 8,5 TEur
  
 #### Bindemaschine / Bündelung
 - [Japan Agritrading :: Tabanera Gemüsebindebandspender 300-V :: Simpel Version](https://japan-agritrading.com/de/products/tabanera-vegetable-binding-tape-dispenser-300-v)
