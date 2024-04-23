@@ -37,6 +37,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ## Bewässerungstechnik
 
+### Rechner / Kalkulation
+
+[Durchflussrechner](https://www.gfps.com/de-de/downloads-tools/online-tools/flow-calculator.html) <> [Tutorial](https://www.youtube.com/watch?v=_DdLC1x87IY)
+
 ## Dünger
 
 ### Flüssig und Blattdünger
