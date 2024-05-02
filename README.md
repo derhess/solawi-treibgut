@@ -37,6 +37,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ## Bewässerungstechnik
 
+### Dienstleister
+
+[Österreich :: FarmSolutions](https://farmsolutions.at/)
+
 ### Rechner / Kalkulation
 
 [Durchflussrechner](https://www.gfps.com/de-de/downloads-tools/online-tools/flow-calculator.html) <> [Tutorial](https://www.youtube.com/watch?v=_DdLC1x87IY)
@@ -84,6 +88,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Wix : Website Baukastensystem mit Kundenverwaltung und Newsletter System](wix.com)
 - [Lexoffice :: Buchhaltung für Kleinunternehmer](https://www.lexoffice.de/)
 
+### Wetter Web Services
+- [Awekas für Ober-Mörlen](https://www.awekas.at/de/instrument.php?id=3437)
+- [Weather Underground für Ober-Mörlen](https://www.wunderground.com/weather/de/ober-m%C3%B6rlen)
+- [Wetteronline für Ober-Mörlen](wetteronline.de/wetter/ober-moerlen)
+- [Agrarwetter :: Proplanta inkl. (Niederschlagsdatenbank)](https://www.proplanta.de/Agrar-Wetter/profi-wetter.php?SITEID=60)
+
 ## Montage Kits
 Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkeit wäre schön, daher einpaark Montagekits
 
@@ -92,6 +102,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Bullfix : Montageprofile für Regale usw.](https://www.bullfix.net/montageprofile/)
 - [Rohrverbinder : Gerüstbau, Mini-Gewächshaus oder anderes](https://www.rohr-verbinder.de/)
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
+- [Alu Profile - Modulare Konstruktionskits](https://aluboerse.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Dold : Meachatronik Profile](https://www.dold-mechatronik.de/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
