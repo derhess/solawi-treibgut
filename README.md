@@ -182,10 +182,18 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 
 #### Maschinen für Small-Scale Kompostwirtschaft
 - [Screener :: IDM :: SLG-78VF TOPSOIL & ROCK SCREENER](https://idmcabc.com/topsoil-screeners/desite-slg78vf/) via [LivingSoil Podcast](https://www.youtube.com/watch?v=wLaG47P-Q24)
+- [Screener :: für kleinere Gärten mit Siebtrommel und Betonmischer](https://www.bauhaus.info/betonmischer/altrad-siebtrommel-fuer-betonmischer/p/20280767) Bsp. [Hacks auf YT](https://www.youtube.com/watch?v=LwmoHlE_OGk&t=985s)
 - [Wendemaschine :: Gujer Innotec :: Kompostwender TG 201 / 231  / 263](https://www.gujerinnotec.com/de/kompostwender.html) Preis ab bzw. über 20 TEur (für KOMPOSTWENDER SGF 2100 B & E)
 - [Kompostwender Compost Systems :: z.B. CMC SF 200](https://www.compost-systems.com/de/produkte/maschinentechnik/selbstfahrende-kompostwender) Preise auch ab 20 TEur
 - [E-Wender :: selbstfahrende Kompostwender mit Elektrobatterie](https://www.pusch-schinnerl.com/e-wender/) entwickelt zusammen mit Gerald Dunst von Sonnenerde
 - [Komptech :: Gesamtmaschinenpark für Kompostbetriebe](https://www.komptech.com/)
+
+### Pflanzenkohle
+
+#### Grills / Ofen / Werkzeuge
+- [Kon-Tikis und Pyrolyseöfen im Vergleich (von 2020)](https://www.deinbeet.de/mischkultur/terra-preta-aus-pflanzenkohle-herstellen-kon-tiki-und-pyrolyseofen-im-vergleich/)
+- [Soehlmetall :: Kon-Tiki 95](https://www.soehlmetall-shop.de/p/kon-tiki-95)
+- [MiniHäcksler für Pflanzenkohle :: Fischer Obstmühle (handbetrieben)](https://www.fischer-lahr.de/Obstmuehle-7-lt-Handbetrieb-mit-Edelstahltrichter) oder [Bsp. mit Bohrmaschine](und Bohrmaschine)
 
 ### Material zur Wiederverwendung
 - [Holz :: unbehandelte(!) Eisenbahnschwellen können für Beetbegrenzung, Wegen, oder Terassenbau](https://www.eisenbahnschwellen.com/index.php?id=58)
@@ -201,6 +209,3 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - [Webinar : Food Safety for Wash/Pack Facilities on the Farm](https://youtube.com/playlist?list=PLMxaHBxUI9qYTupJw4B5k4RURKUrxxn5J&si=qSgl53fGPdu9VA3h)
 - [Webinar: Project Planning for Postharvest Efficiency, Profitability & Food](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
 - [Webinar:Food Safety for Wash/Pack Facilities on the Farm](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
-
-
-
