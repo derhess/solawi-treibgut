@@ -35,6 +35,27 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
 - [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
 
+## Gemüsebau Handwerk
+
+### Verbände, Netzwerke
+
+- [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de/)
+- [soliarische Landwirtschaft Netzwerk](https://www.solidarische-landwirtschaft.org/)
+- [Kolibri - Market Garden Netzwerk](https://kolibri-netzwerk.de/)
+- [Ökomodell Region Wetterau :: öffentliche Instition](https://oekomodellland-hessen.de/region/wetterau/)
+- [LLH Fachabteilung und Arbeitsgruppe ökologischer Landbau :: öffentliche Instition](https://llh.hessen.de/umwelt/oekologischer-landbau/)
+
+### Recherche
+
+- [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
+- [Hortigate - Informationsdienst Gartenbau](https://www.hortigate.de/)
+
+### Versicherung, Berufsgenossenschaft, etc
+
+- [SVLFG :: Versicherung und Berufsgenossenschaft für Landwirtschaft und Gartenbau](https://www.svlfg.de/)
+- [HAVA Kassel :: Haftpflichtversicherung für die grüne Branche](https://hava-kassel.de/)
+- ...
+
 ## Bewässerungstechnik
 
 ### Dienstleister
