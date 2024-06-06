@@ -39,9 +39,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Verbände, Netzwerke
 
-- [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de/)
+- [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
 - [soliarische Landwirtschaft Netzwerk](https://www.solidarische-landwirtschaft.org/)
 - [Kolibri - Market Garden Netzwerk](https://kolibri-netzwerk.de/)
+- [Mikro Landwirtschaft :: Initiave für Gemeinschaftsacker, Saisongärten usw.](https://www.mikrolandwirtschaft.org/)
 - [Ökomodell Region Wetterau :: öffentliche Instition](https://oekomodellland-hessen.de/region/wetterau/)
 - [LLH Fachabteilung und Arbeitsgruppe ökologischer Landbau :: öffentliche Instition](https://llh.hessen.de/umwelt/oekologischer-landbau/)
 
@@ -72,7 +73,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ## Dünger
 
 ### Flüssig und Blattdünger
-- [Frühjahr und Herbst / und auch für Blütenentwicklung :: Provita® Vinasse Bio Flüssigdünger](https://www.agrarshop-online.com/beckmann-profi-provita-aminofert-vinasse-)fluessig.php
+- [Frühjahr und Herbst / und auch für Blütenentwicklung :: Provita® Vinasse Bio Flüssigdünger](https://www.agrarshop-online.com/beckmann-profi-provita-aminofert-vinasse-fluessig.php)
 - [Jauche :: Brennnesselpellets](https://www.andermatt-biogarten.de/de-de/brennnesselpellets--p19930?variant=16932)
 - [Jauche :: Schachtelhalmpellets](https://www.andermatt-biogarten.de/de-de/schachtelhalmpellets--p19931?variant=16933)
 
@@ -227,6 +228,12 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 ### Nagetier
 - [erminea : Fangwannen, Wieselnistkästen, und mobile Greifvogelstangen](http://www.erminea.com/Wieselkasten.html)
 - [NABU : Nistkästen Greifvögel](https://www.nabu-rlp-sued.de/artenschutz/bauanleitungen-f%C3%BCr-nisthilfen/)
+
+## Marketing / Vertrieb
+
+- [Direktvertrieb Wetteraukreis :: öffentliche Initiative](https://wetteraukreis.de/direktvermarkter)
+- [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
+- [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/)
 
 ## Schulungen, Webinare
 - [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
