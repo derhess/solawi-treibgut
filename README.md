@@ -64,7 +64,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Rechner / Kalkulation
 
-[Durchflussrechner](https://www.gfps.com/de-de/downloads-tools/online-tools/flow-calculator.html) <> [Tutorial](https://www.youtube.com/watch?v=_DdLC1x87IY)
+- [Hochschule Geisenheim :: Bewässerungssteuerung und Model für Gemüsebau](https://www.hs-geisenheim.de/gemuesebau/bewaesserung/geisenheimer-bewaesserungssteuerung/)
+- [ALB Bayern :: Bewässerungsrechner mit mobiler App](https://www.alb-bayern.de/De/Bewaesserung/Steuerungsmodelle/steuerung-beregnung-entscheidungshilfe_BewaesserungsApp.html?expert=true)
+- [Durchflussrechner](https://www.gfps.com/de-de/downloads-tools/online-tools/flow-calculator.html) <> [Tutorial](https://www.youtube.com/watch?v=_DdLC1x87IY)
+- [DVS Beregnungsplaner :: eher für kleinere (private) Vorhaben](https://dvs-beregnung.de/services/bewaesserung-zeichentool)
 
 ## Dünger
 
