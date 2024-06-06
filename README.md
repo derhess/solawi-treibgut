@@ -49,7 +49,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Recherche
 
 - [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
-- [NL :: Pflanzen Wurzelkatalog](https://images.wur.nl/digital/collection/coll13/search)
+- [NL :: Online Pflanzen Wurzelatlas](https://images.wur.nl/digital/collection/coll13/search)
 - [Hortigate - Informationsdienst Gartenbau](https://www.hortigate.de/)
 
 ### Versicherung, Berufsgenossenschaft, etc
