@@ -237,6 +237,11 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
 - [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/)
 
+### Onlineshop und Verkauf-COOP
+
+- [truebenecker.de](https://www.truebenecker.de/obst-und-gemuese/) aus Münchner Raum
+- [Queerbeet](https://www.querbeet.de/) aus Wetterau (Hessen)
+
 ## Schulungen, Webinare
 - [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
 - [Webinar : Food Safety for Wash/Pack Facilities on the Farm](https://youtube.com/playlist?list=PLMxaHBxUI9qYTupJw4B5k4RURKUrxxn5J&si=qSgl53fGPdu9VA3h)
