@@ -236,6 +236,7 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - [Direktvertrieb Wetteraukreis :: öffentliche Initiative](https://wetteraukreis.de/direktvermarkter)
 - [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
 - [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/)
+- [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
 
 ### Onlineshop und Verkauf-COOP (als Inspiration und Preisbarometer)
 
