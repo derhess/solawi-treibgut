@@ -41,6 +41,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 - [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
 - [soliarische Landwirtschaft Netzwerk](https://www.solidarische-landwirtschaft.org/)
+- [SoLaWi als Genossenschaft Arbeitsgruppe](https://solawi-genossenschaften.net/)
 - [Kolibri - Market Garden Netzwerk](https://kolibri-netzwerk.de/)
 - [Mikro Landwirtschaft :: Initiave für Gemeinschaftsacker, Saisongärten usw.](https://www.mikrolandwirtschaft.org/)
 - [Ökomodell Region Wetterau :: öffentliche Instition](https://oekomodellland-hessen.de/region/wetterau/)
