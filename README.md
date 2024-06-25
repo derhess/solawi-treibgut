@@ -250,3 +250,4 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - [Webinar : Food Safety for Wash/Pack Facilities on the Farm](https://youtube.com/playlist?list=PLMxaHBxUI9qYTupJw4B5k4RURKUrxxn5J&si=qSgl53fGPdu9VA3h)
 - [Webinar: Project Planning for Postharvest Efficiency, Profitability & Food](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
 - [Webinar:Food Safety for Wash/Pack Facilities on the Farm](https://www.youtube.com/playlist?list=PLRhtZw1o6RdFflbL5Y9FRNf4GcLmeNU9M)
+- [Handbuch : Solidarische Landwirtschaft Gründung, Kennzahlen usw.](https://www.solidarische-landwirtschaft.org/solawis-aufbauen/handbuch)
