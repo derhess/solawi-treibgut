@@ -205,6 +205,7 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 #### stationäres Kompostsystem
 - [UK :: Ridan :: Pro System Food Waste Composter](https://www.ridan.co.uk/our-composters/ridan-range/ridan-pro-system-food-waste-composter/)
 - [US & Israel :: Homebiogas](https://www.homebiogas.com/eu/shop/backyard-systems/)
+- [Selbstbauanleitung :; Low Cost Aerial Compost System](https://www.dungstercomposting.com/)
 - [Selbstbauanleitung :: Johnson Su Bioreaktor](https://regenerationinternational.org/wp-content/uploads/2017/09/Johnson-Su-Bioreactor.pdf) ein Kompostverfahren mit einem höheren Pilz/Bakterien Verhältnis
 
 
