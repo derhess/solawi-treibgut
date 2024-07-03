@@ -144,6 +144,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [akkudoktor :: PV Tools](https://pvtools.sektorsonne.de/)
 - [Victron :: MPPT Calculator](https://mppt.victronenergy.com/?locale=de)
 - [Formel Reihenabstand Module Flachdach](https://echtsolar.de/abstand-photovoltaik-flachdach/)
+- [Flachdach Montage Kit (z.B. direkt oben auf mehreren IBC Containern verankern)](https://www.eurotec.team/produkte/solarbefestigung/gelenk-fuer-modulaufstaenderung-vorne)
 
 ### Solar Pumpen
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
@@ -159,6 +160,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Ecoflow : Mobile All-in-one Ecosystem mit Delta Pro, Smart Dual Full Generator, PV Panels und vieles mehr](https://de.ecoflow.com/)
 - [GroWatt : Inselanlage Wechselrichter](https://de.growatt.com/)
 - [Victron : der Mercedes unter den Inselanlagen PV Systeme - sehr großes Ecosystem](https://www.victronenergy.de/)
+- [Egopowerplus :: Akkuplatform für Gartengeräte usw.](https://egopowerplus.de/produkte/lifestyle/pad5001e)
 
 #### Speicherlösungen ausm Baugewerbe
 - [nagel : Energiespeicher](https://www.nagel-baugeraeteshop.de/shop.php?cat=673112555&name=Energiespeicher&SessID=fa3d92f373593dc3615977663c7b197f)
