@@ -52,6 +52,9 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
 - [NL :: Online Pflanzen Wurzelatlas](https://images.wur.nl/digital/collection/coll13/search)
 - [Hortigate - Informationsdienst Gartenbau](https://www.hortigate.de/)
+- [DE :: Schadbilder Gemüse](https://www.sperli.de/dumm-gelaufen/)
+- [DE :: Buch - Atlas der Krankheiten, Schädlinge und Nützlinge im Obst- und Weinbau](https://www.thalia.de/shop/home/artikeldetails/A1033947179?)
+- [DE :: Buch - Handbuch zur visuellen Diagnose von Ernährungsstörungen bei Kulturpflanzen](https://link.springer.com/book/10.1007/978-3-662-49145-4)
 
 ### Versicherung, Berufsgenossenschaft, etc
 
