@@ -102,6 +102,9 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Terrateck :: Reinigungspistole](https://www.terrateck.com/de/nettoyage/82-pistolet-de-nettoyage-legumes.html)
 - [Heuling Maschinenbau :: Gemüsewaschtrommel z.B. Typ 815](https://www.heuling.de/gemuesereinigung/gemuesewascher) für Wurzel und Knollengemüse :: Preis ab ca. 8,5 TEur
 - [Allpax :: Gastro und Event Online Shop](https://www.allpax.de/)
+
+#### Kühlung / Lagerung
+- [DE :: Erdkeller](https://gewoelbekeller.neuschwander.de/de/erdkeller.html) - [Kosten ab 7.5 TEUR](https://gewoelbekeller.neuschwander.de/de/der-clou.html) mit [Praxisbeispielen](https://gewoelbekeller.neuschwander.de/de/obst-gemueselager.html)
  
 #### Bindemaschine / Bündelung
 - [Japan Agritrading :: Tabanera Gemüsebindebandspender 300-V :: Simpel Version](https://japan-agritrading.com/de/products/tabanera-vegetable-binding-tape-dispenser-300-v)
