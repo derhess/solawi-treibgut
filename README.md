@@ -156,6 +156,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
 - [Futurepump UK : Sehr gute mobile(!) Solarpumpe mit Überkopfberegnung Set und Hochdruckadapter](https://shop.futurepump.com/products/sf2-solar-pump)
 - [Grundfos](https://product-selection.grundfos.com/de/applications/solar-water-pumping-solutions/agriculture-solar-solutions?tab=products)
+- [Ebinger : Akku-Pumpeneinheit TBW 46](https://www.ebinger-gmbh.com/zubehoer/bewaesserungseinheiten/akku-pumpeneinheit-tbw-46-76385.html) - Kein Solar, aber elektrische 24V Pumpeneinheit mit Akku und [KomplettSet-Angeboten](https://www.ebinger-gmbh.com/zubehoer/bewaesserungseinheiten.html)
 
 ### Montage
 
