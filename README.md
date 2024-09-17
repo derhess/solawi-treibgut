@@ -60,7 +60,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 - [DE :: Praxisforschungsnetzwerk Hessen](https://www.pfn-hessen.de/)
 - [AT :: Versuchsanlage Zinsenhof (Wolfgang Palme)](https://www.zinsenhof.com/)
-- [AT :: Grand Farm - Bio-Bauernhof mit einem hohen Forschungsanteil](https://grandfarm.at/)
+- [AT :: Grand Farm - Bio-Bauernhof mit einem hohen Forschungsanteil](https://grandfarm.at/grand-farm-forschungsprojekte/)
 
 ### Versicherung, Berufsgenossenschaft, etc
 
