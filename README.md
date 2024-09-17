@@ -56,6 +56,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [DE :: Buch - Atlas der Krankheiten, Schädlinge und Nützlinge im Obst- und Weinbau](https://www.thalia.de/shop/home/artikeldetails/A1033947179?)
 - [DE :: Buch - Handbuch zur visuellen Diagnose von Ernährungsstörungen bei Kulturpflanzen](https://link.springer.com/book/10.1007/978-3-662-49145-4)
 
+### Reallabore
+
+- [DE :: Praxisforschungsnetzwerk Hessen](https://www.pfn-hessen.de/)
+- [AT :: Versuchsanlage Zinsenhof (Wolfgang Palme)](https://www.zinsenhof.com/)
+- [AT :: Grand Farm - Bio-Bauernhof mit einem hohen Forschungsanteil](https://grandfarm.at/)
+
 ### Versicherung, Berufsgenossenschaft, etc
 
 - [SVLFG :: Versicherung und Berufsgenossenschaft für Landwirtschaft und Gartenbau](https://www.svlfg.de/)
