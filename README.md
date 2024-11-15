@@ -23,9 +23,9 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser)
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
 
-### Ausländische Folientunnel Herstelle
+### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
-- [UK :: First Tunnel](https://www.firsttunnels.co.uk/)
+- [UK :: First Tunnel](https://www.firsttunnels.co.uk/) und [Konstruktionsanleitungen und Tipps](https://construct.firsttunnels.co.uk/products/10ft/fitting-cover-to-an-aluminium-rail/)
 - [UK :: Premiertunnels](https://www.premierpolytunnels.co.uk/shop/polytunnels/21ft-wide/)
 - [UK: extrem sturmsicher Tunnel : Polycrub](https://www.polycrub.co.uk/)
 - [Belgien :: Filclair mit deutschen Montage Service!](https://www.nitsch-gartenbautechnik.de/produkte/kat/filclair.html)
