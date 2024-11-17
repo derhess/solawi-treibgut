@@ -35,7 +35,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
 - [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
 
-## Gemüsebau Handwerk
+## Gemüsebau & Obst Handwerk
 
 ### Verbände, Netzwerke
 
@@ -57,6 +57,18 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [DE :: Buch - Atlas der Krankheiten, Schädlinge und Nützlinge im Obst- und Weinbau](https://www.thalia.de/shop/home/artikeldetails/A1033947179?)
 - [DE :: Buch - Handbuch zur visuellen Diagnose von Ernährungsstörungen bei Kulturpflanzen](https://link.springer.com/book/10.1007/978-3-662-49145-4)
 
+### Jungpflanzen
+
+- [Natterer - gute Qualität und große Produktvielfalt in Erdtopfpressen ](https://www.natterer-bioland.de/) - mit Abholung in BN-Steinfurt
+- [SoLaWi Petersilie Marburg - gute Qualität von Fruchtgemüse](https://gaertnereipetersilie.de/) - mit Lieferdienstpauschale
+
+### Baumschulen
+
+- [Baumschule Rinn aus Gießen](https://www.rinnbaumschule.de/) - Gutes Sortiment lokaler Apfelsorten
+- [Baumschule Ritthaler aus RheinlandPfalz](https://shop.baumschuleritthaler.de/) - Spezialist für Birnen
+- [Baumschaule Kastanienkultur aus Witzenhausen](https://www.kastanienkultur.de/) - Spezialist für Kastanien
+- [Baumschule Nussspezialist](https://www.nussspezialist.de/) - Spezialist für Wallnuss und Haselnuss
+
 ### Reallabore
 
 - [DE :: Praxisforschungsnetzwerk Hessen](https://www.pfn-hessen.de/)
@@ -68,6 +80,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [SVLFG :: Versicherung und Berufsgenossenschaft für Landwirtschaft und Gartenbau](https://www.svlfg.de/)
 - [HAVA Kassel :: Haftpflichtversicherung für die grüne Branche](https://hava-kassel.de/)
 - ...
+
+  
 
 ## Bewässerungstechnik
 
