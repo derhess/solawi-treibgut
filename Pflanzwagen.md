@@ -28,3 +28,7 @@ Anbei eine Liste
 - [24 zoll rad 12mm nabe](https://www.google.com/search?sca_esv=c6004f725def933e&rlz=1C5CHFA_enDE1030DE1030&sxsrf=ADLYWII2gbGn0mn8EeP2j2UxBSPQ-0Aolw:1731600464143&q=24+zoll+rad+12mm+nabe&udm=3&fbs=AEQNm0A6bwEop21ehxKWq5cj-cHa9RzI4fQJ53YeRxSnybR5QqqH9wOe9IylodR2ppIPlwvq-xrzC5Td20uBrEHfuOcPywhNOeKeOmEq6GWNqCgedWza9lflu_jERBTrM_1vT2brtd2Gjdm7oDqcR77GWA1vi43u6uIoHPeT2JnteI0UgelzE30X5fv10uiVgXZ6hS3zSl9K&sa=X&ved=2ahUKEwjcnLu0mtyJAxUu6wIHHeW1G38Qs6gLegQIJBAB&biw=1692&bih=1431&dpr=2)
 - [24zoll rad 12mm steckachse](https://www.google.com/search?q=24zoll+rad+12mm+steckachse&sca_esv=c6004f725def933e&rlz=1C5CHFA_enDE1030DE1030&sxsrf=ADLYWILPGgtaNyyJiGe5UhDvdfB0wN5QuQ%3A1731600711979&ei=RyE2Z5eyO7-zi-gPkL2koQg&ved=0ahUKEwjX8dGqm9yJAxW_2QIHHZAeKYQQ4dUDCA8&uact=5&oq=24zoll+rad+12mm+steckachse&gs_lp=Egxnd3Mtd2l6LXNlcnAiGjI0em9sbCByYWQgMTJtbSBzdGVja2FjaHNlMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjjFVDoCFj7FHABeAGQAQCYAWugAagEqgEDNi4xuAEDyAEA-AEBmAIIoAK_BMICChAAGLADGNYEGEfCAgoQIRigARjDBBgKmAMAiAYBkAYIkgcDNy4xoAf9FQ&sclient=gws-wiz-serp)
 - 
+
+# Technische Beschreibung
+
+- https://radreise-wiki.de/Nabenachse
