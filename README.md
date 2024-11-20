@@ -49,6 +49,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [LLH Fachabteilung und Arbeitsgruppe ökologischer Landbau :: öffentliche Instition](https://llh.hessen.de/umwelt/oekologischer-landbau/)
 - [Streuobst in der Region FrankfurtRheinMain](https://www.klimaenergie-frm.de/Nachhaltigkeit/Streuobst/)
 
+### Bodentestverfahren und Labore
+
+- [Basic Cation Saturation Ratios (BCSR)](https://fieldadvisor.org/basic-cation-saturation-ratios-bcsr-soil-balancing-desired-values-and-ratios/)
+- Bodenanalysen nach Albrecht / Kinsey ([Vortrag](https://www.youtube.com/watch?v=LpY2wdiDXJs))
+- [Raiffeisen Laborservice für Standard Bodenproben](https://www.raiffeisen-laborservice.de/boden/landwirtschaft/bodenanalysen-landwirtschaft)
+
 ### Recherche
 
 - [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
