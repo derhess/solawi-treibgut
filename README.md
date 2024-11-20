@@ -34,6 +34,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
 - [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
+- [Inspiration :: Elektrifizierung von Farm Equipment aus der Tüftler Perspektive](https://www.youtube.com/watch?v=x4Q8-_6T3kM)
 
 ## Gemüsebau & Obst Handwerk
 
