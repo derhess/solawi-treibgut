@@ -17,7 +17,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
 
-## Folientunnel Hersteller
+## Gewächshaus / Folientunnel Hersteller
 - [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/)
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
 - [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser)
