@@ -22,6 +22,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
 - [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser)
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
+- [Stabil, groß, und Thermo :: Götsch und Fälschle](https://www.goetsch-faelschle.de/) 
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
