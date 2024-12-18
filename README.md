@@ -39,6 +39,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ## Gemüsebau & Obst Handwerk
 
+### Digitale Tools
+
+- [Saatgutrechner Bingenheim](https://saatgutrechner.micro-farm-planner.com/)
+
 ### Verbände, Netzwerke
 
 - [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
