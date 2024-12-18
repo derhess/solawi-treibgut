@@ -295,7 +295,17 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 
 - [truebenecker.de](https://www.truebenecker.de/obst-und-gemuese/) aus Münchner Raum
 - [Queerbeet](https://www.querbeet.de/) aus Wetterau (Hessen)
+- [Obstwelt](https://www.obstwelt.com/) aus Darmstadt Onlinehändler
+- [Gemüse-bestellen.de](https://gemuese-bestellen.de/) - Online Shop aus Bayern
+- [BioLaboratorium](https://www.biolaboratorium.com/) - aus Polen für deutschen Markt
 - [Hammersbacher Hofgemüse](https://openfoodnetwork.de/hammersbacher-hofgemuese/shop) aus Market Garden Hanau
+- [MyTime](https://www.mytime.de/obst_und_gemuese_210001100.html) - klassischer Online Supermarkt
+- [Knuspr.de](https://www.knuspr.de/) - Online StartUp für Gemüse
+- https://frischehelden.shop/Obst-und-Gemuese/
+- https://www.obstlieferei.de/
+- https://www.landkorb.de/Frisches-Gem%C3%BCse
+- https://www.obst-gemüse-express.de
+- https://www.lebegesund.de/
 
 ## Schulungen, Webinare
 - [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
