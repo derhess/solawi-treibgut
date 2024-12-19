@@ -43,7 +43,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Digitale Tools
 
 - [Saatgutrechner Bingenheim](https://saatgutrechner.micro-farm-planner.com/)
-
+- [Kalkulationshilfen für Erträge und Deckungsbeiträge](https://www.stmelf.bayern.de/idb/default.html)
 ### Verbände, Netzwerke
 
 - [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
