@@ -191,8 +191,14 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
 - [Heizungsbau : HD24 Monage Schienen](https://www.hd24.de/befestigungstechnik.php)
 - [Spedition : lasi24-shop - Ladungssicherung Austatter](https://www.lasi24-shop.de/anwendungsbereich/?p=2)
-- weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw. 
+- weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw.
 
+### Montage Hacks
+
+- [Farm Hack Tools](https://farmhack.org/tools)
+- [GOAT :: Gathering for Open Agricultural Technology](https://goatech.org/)
+- [Saftstrasse für Apfelsaftproduktion](https://active-commons.org/saftstrasse/)
+  
 ## Solar, PV und damit verbundene Geräte
 - [Schattensimulator übers Jahr](http://shadowcalculator.eu/#/lat/50.37842191448231/lng/8.687300704961647)
 - [Sonnverlauf Simulator für Ober-Mörlen](https://www.sonnenverlauf.de/#/50.378,8.6874,16/2024.03.01/09:54/1/3)
