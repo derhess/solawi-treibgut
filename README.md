@@ -6,6 +6,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Meyer](https://www.meyer-shop.com/) (Niederlassung in Frankfurt)
 - [Hartmann Brockhaus](https://www.hartmann-brockhaus.de/)
 - [Brandner Landtechnik](https://www.brander-landtechnik.de/gemueseanbau-gartenbau/)
+- [Aldinger Gartentechnik](https://aldinger-technik.de/)
 - [H. Nitsch & Sohn GmbH & Co. KG](https://www.nitsch-gartenbautechnik.de/)
 - [Gartenbautechnik Geereking](https://www.gartenbautechnikgeereking.de/)
 - [Terrateck](https://www.terrateck.com/de/)
@@ -141,6 +142,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 #### Waschen
 
+- [BW Food Processing :: mobile Waschstraße für Obst und Gemüse](https://www.bw-fpe.com/durchschubwaschanlage) - Preis um die 8 Teur netto
 - [UVM Agriculture Eng. :: DIY Bubbler für Salate und andere Blattgemüse](https://blog.uvm.edu/cwcallah/2021/10/06/building-a-better-greens-bubbler/)
 - [Neversink :: Bubbler System](https://neversinktools.com/en-fr/collections/wash-and-pack/products/greens-bubbler)
 - [Neversink :: Wasch Stativ mit Fusspedal](https://neversinktools.com/en-fr/collections/wash-and-pack/products/wash-gun-pedal)
