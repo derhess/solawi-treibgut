@@ -10,6 +10,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [H. Nitsch & Sohn GmbH & Co. KG](https://www.nitsch-gartenbautechnik.de/)
 - [Gartenbautechnik Geereking](https://www.gartenbautechnikgeereking.de/)
 - [Terrateck](https://www.terrateck.com/de/)
+- [Gemüsetechnik Trinkel](https://www.gemuesetechnik.de/) für die etwas größere Gemüsebaufraktion
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
 
 
