@@ -137,6 +137,9 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Obst Ernte
 
+- Beerenpflücker
+- [Feucht Obsttechnik :: Auflesemaschine und Baumrüttler](https://feucht-obsttechnik.de/de/obsterntetechnik/obstauflesemaschinen/) - große Maschine und teilweise Traktor benötigt
+- [Fallobst :: Obstsammler aus AT](https://obstsammler.com/) - beschädigt die Äpfel
 - [Organic Tools :: Obstraupe](https://www.organic-tools.com/obstauflesemaschine-obstraupe)
 - [Weitere Werkzeuge in der Übersicht](https://www.lwg.bayern.de/landespflege/gartendokumente/fachartikel/091447/index.php#:~:text=100%20cm%20Arbeitsbreite%20haben%20die,16.000%20%E2%82%AC%20und%2021.000%20%E2%82%AC.)
 
