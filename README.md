@@ -310,7 +310,13 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 
 ## Marketing / Vertrieb
 
+- [WochenMarkt Orga für Bad Nauheim, Rosbach](https://www.markthandel.de/veranstaltung.htm) - dienstags von 12:00 bis 18:00 Uhr und freitags von 8:00 bis 13:00 Uhr-  Ansprechpartner Herr Simmack für [Bad Nauheim](https://www.bad-nauheim.de/de/erlebnisreich/blog-und-webcam/bad-nauheim-blog/lokalgenuss/wochenmarkt-bad-nauheim).
+- [Markt Orga für Butzbach](https://stadt-butzbach.de/kultur/maerkte-events/) - Butzbacher Marktplatz - Dienstags Wochenmarkt von 09:00 bis 13:00 Uhr und Samstags Selbsterzeugermarkt
+von 08:00 bis 13:00 Uhr
+
 - [Direktvertrieb Wetteraukreis :: öffentliche Initiative](https://wetteraukreis.de/direktvermarkter)
+- [nearbuy-food.de](regionale Lebensmittelversorung Netzwerk) - Für die [Hessen](https://www.nearbuy-food.de/post/nearbuy-goes-hessen-teil-1) noch eingeschränkt
+- [Marktschwärmerei Netzwerk] - Plattform für Regional Markt Orga 
 - [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
 - [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
