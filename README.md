@@ -50,10 +50,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
   
 ### Verbände, Netzwerke
 
+- [Bundesfachgruppe :: Gemüsebau](https://www.gemuesebau.org/)
 - [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
 - [soliarische Landwirtschaft Netzwerk](https://www.solidarische-landwirtschaft.org/)
 - [SoLaWi als Genossenschaft Arbeitsgruppe](https://solawi-genossenschaften.net/)
 - [Kolibri - Market Garden Netzwerk](https://kolibri-netzwerk.de/)
+- [AT :: OG Marktgärtnerei Österreich](https://www.marktgärtnerei.info/) - Market Garden Interessenvertretung für AT
 - [Mikro Landwirtschaft :: Initiave für Gemeinschaftsacker, Saisongärten usw.](https://www.mikrolandwirtschaft.org/)
 - [Ökomodell Region Wetterau :: öffentliche Instition](https://oekomodellland-hessen.de/region/wetterau/)
 - [LLH Fachabteilung und Arbeitsgruppe ökologischer Landbau :: öffentliche Instition](https://llh.hessen.de/umwelt/oekologischer-landbau/)
@@ -67,6 +69,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Recherche
 
+- [Fachzeitschrift Gartenbau :: Hortigate](https://www.hortigate.de/) - Das Informationsnetzwerk Gartenbau (Gemüse und Obst)
+- [Fachzeitschrift Gemüse :: Professionellen Gemüsebau](https://www.gemuese-online.de/) - vom Ulmer Fachverlag
 - [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
 - [NL :: Online Pflanzen Wurzelatlas](https://images.wur.nl/digital/collection/coll13/search)
 - [Hortigate - Informationsdienst Gartenbau](https://www.hortigate.de/)
