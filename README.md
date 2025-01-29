@@ -47,6 +47,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Saatgutrechner Bingenheim](https://saatgutrechner.micro-farm-planner.com/)
 - [Kalkulationshilfen für Erträge und Deckungsbeiträge](https://www.stmelf.bayern.de/idb/default.html)
 - [Landwirtschaft GeoBox-Viewer für Hessen](https://geobox-i.de/GBV-HE/)
+- [Wetteraukreis Geo Viewer - Vermarkter, Radwege usw.](https://gis.wetterau.de/GISWetterau/synserver?client=core&project=GISTourismus&view=Landgenuss&x=490692,55&y=5577788,65&scale=200000)
   
 ### Verbände, Netzwerke
 
@@ -314,11 +315,12 @@ Ramial Wood Chips sind gut geeignet für Gehölz aus späten Winterschnitt / Fr�
 - [Markt Orga für Butzbach](https://stadt-butzbach.de/kultur/maerkte-events/) - Butzbacher Marktplatz - Dienstags Wochenmarkt von 09:00 bis 13:00 Uhr und Samstags Selbsterzeugermarkt
 von 08:00 bis 13:00 Uhr
 
-- [Direktvertrieb Wetteraukreis :: öffentliche Initiative](https://wetteraukreis.de/direktvermarkter)
+- [Direktvertrieb Wetteraukreis :: öffentliche Initiative](https://tourismus.wetterau.de/genuss/direktvermarkter/saisongaerten/solawi) - wir sind bereits gelistet
 - [nearbuy-food.de](regionale Lebensmittelversorung Netzwerk) - Für die [Hessen](https://www.nearbuy-food.de/post/nearbuy-goes-hessen-teil-1) noch eingeschränkt
 - [Marktschwärmerei Netzwerk] - Plattform für Regional Markt Orga 
 - [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
-- [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/)
+- [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/) - wir sind bereits [gelistet](https://ernte-teilen.org/karte/#/initiatives/216)
+- [Mikrolandwirtschaft Plattform](https://www.mikrolandwirtschaft.org/listing/9xgi8tpjfg-solawi-treibgut-market-garden)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
 
 ### Onlineshop und Verkauf-COOP (als Inspiration und Preisbarometer)
