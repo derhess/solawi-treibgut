@@ -349,3 +349,9 @@ von 08:00 bis 13:00 Uhr
 - [Handbuch : Solidarische Landwirtschaft Gründung, Kennzahlen usw.](https://www.solidarische-landwirtschaft.org/solawis-aufbauen/handbuch)
 - [Ratgeber : SoLaWi Netzwerk zu Bauen im Außenbereich, Rechtsfrageen, Datenschutz usw.](https://www.solidarische-landwirtschaft.org/solawis-aufbauen/vorlagen-und-dokumente/#accordionHead9551)
 - [Merkblätter und Templates (z.B. Kostenkalkulation)](https://www.solidarische-landwirtschaft.org/solawis-aufbauen/vorlagen-und-dokumente/#accordionHead11435)
+
+
+
+## Buchhaltung
+
+- https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Betriebspruefung/AfA-Tabellen/AfA-Tabelle_Gartenbau.html
