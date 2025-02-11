@@ -353,5 +353,5 @@ von 08:00 bis 13:00 Uhr
 
 
 ## Buchhaltung
-
+- [Steuerbüro :: LBH Steuerberatung mbH](https://www.lbh.de/niederlassung/friedberg)
 - https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Betriebspruefung/AfA-Tabellen/AfA-Tabelle_Gartenbau.html
