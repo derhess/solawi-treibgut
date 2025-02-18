@@ -319,6 +319,7 @@ von 08:00 bis 13:00 Uhr
 - [nearbuy-food.de](nearbuy-food.de) :: regionale Lebensmittelversorung Netzwerk) - Für die [Hessen](https://www.nearbuy-food.de/post/nearbuy-goes-hessen-teil-1) noch eingeschränkt
 - [Marktschwärmerei Netzwerk](https://marktschwaermer.de/) - Plattform für Regional Markt Orga 
 - [OpenFoodNetwork :: Online Plattform für Lebensmittel](https://openfoodnetwork.de/)
+- [HofladenFinder :: Online Map für Hofläden](https://www.hofladenfinder.org/)
 - [ernte-teilen.org :: Vermittlungsplattform für regionale Erzeugnisse](https://ernte-teilen.org/) - wir sind bereits [gelistet](https://ernte-teilen.org/karte/#/initiatives/216)
 - [Mikrolandwirtschaft Plattform](https://www.mikrolandwirtschaft.org/listing/9xgi8tpjfg-solawi-treibgut-market-garden)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
