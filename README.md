@@ -159,6 +159,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Terrateck :: Reinigungspistole](https://www.terrateck.com/de/nettoyage/82-pistolet-de-nettoyage-legumes.html)
 - [Heuling Maschinenbau :: Gemüsewaschtrommel z.B. Typ 815](https://www.heuling.de/gemuesereinigung/gemuesewascher) für Wurzel und Knollengemüse :: Preis ab ca. 8,5 TEur
 - [Allpax :: Gastro und Event Online Shop](https://www.allpax.de/)
+- [Leichtröllchenbahn :: Kistenrollbahn für Waschstrasse](https://shop.layer-grosshandel.de/_schnaeppchen/werkzeug-werkstattbedarf/leichtroellchenbahn-5000-x-600-mm-mit-stuetzen-seitenfuehrung-und-endanschlag.html?is_variant_main=yes&page=1&pos=4&page_size=24) :: Preis um die 1 TEUR
 
 #### Kühlung / Lagerung
 - [DE :: Erdkeller](https://gewoelbekeller.neuschwander.de/de/erdkeller.html) - [Kosten ab 7.5 TEUR](https://gewoelbekeller.neuschwander.de/de/der-clou.html) mit [Praxisbeispielen](https://gewoelbekeller.neuschwander.de/de/obst-gemueselager.html)
