@@ -45,6 +45,11 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Digitale Tools
 
 - [Saatgutrechner Bingenheim](https://saatgutrechner.micro-farm-planner.com/)
+- [PC Gärtner](https://pcgaertner.de/) - Kunden- und Abokistenmanagment inkl. Onlineshop
+- [Heirloom.ag](https://heirloom.ag/) - Anbauplanung Software speziell für Market Garden Betriebe
+- [Gemüsebau Planner](https://www.micro-farm-planner.com/de/) - Gemüse Anbauplanung aus Deutschland.. leider nicht so umfassend wie die US Software Anbieter
+- [tend](https://www.tend.com/) - ziemlich umfassende Small Farm Management Software
+- [https://www.localline.co/] - Farm E-Commere Platform
 - [Kalkulationshilfen für Erträge und Deckungsbeiträge](https://www.stmelf.bayern.de/idb/default.html)
 - [Landwirtschaft GeoBox-Viewer für Hessen](https://geobox-i.de/GBV-HE/)
 - [Wetteraukreis Geo Viewer - Vermarkter, Radwege usw.](https://gis.wetterau.de/GISWetterau/synserver?client=core&project=GISTourismus&view=Landgenuss&x=490692,55&y=5577788,65&scale=200000)
