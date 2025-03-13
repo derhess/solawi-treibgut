@@ -13,8 +13,6 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gemüsetechnik Trinkel](https://www.gemuesetechnik.de/) für die etwas größere Gemüsebaufraktion
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
 
-
-
 ## Anbau Kits
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
@@ -49,7 +47,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Heirloom.ag](https://heirloom.ag/) - Anbauplanung Software speziell für Market Garden Betriebe
 - [Gemüsebau Planner](https://www.micro-farm-planner.com/de/) - Gemüse Anbauplanung aus Deutschland.. leider nicht so umfassend wie die US Software Anbieter
 - [tend](https://www.tend.com/) - ziemlich umfassende Small Farm Management Software
-- [https://www.localline.co/] - Farm E-Commere Platform
+- [Local Line](https://www.localline.co/) - Farm E-Commere Platform
 - [Kalkulationshilfen für Erträge und Deckungsbeiträge](https://www.stmelf.bayern.de/idb/default.html)
 - [Landwirtschaft GeoBox-Viewer für Hessen](https://geobox-i.de/GBV-HE/)
 - [Wetteraukreis Geo Viewer - Vermarkter, Radwege usw.](https://gis.wetterau.de/GISWetterau/synserver?client=core&project=GISTourismus&view=Landgenuss&x=490692,55&y=5577788,65&scale=200000)
