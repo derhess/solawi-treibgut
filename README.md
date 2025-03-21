@@ -161,6 +161,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Neversink :: Wasch Stativ mit Fusspedal](https://neversinktools.com/en-fr/collections/wash-and-pack/products/wash-gun-pedal)
 - [Terrateck :: Reinigungspistole](https://www.terrateck.com/de/nettoyage/82-pistolet-de-nettoyage-legumes.html)
 - [Heuling Maschinenbau :: Gemüsewaschtrommel z.B. Typ 815](https://www.heuling.de/gemuesereinigung/gemuesewascher) für Wurzel und Knollengemüse :: Preis ab ca. 8,5 TEur
+- [Gastro Gemüsewaschmaschine-/ & Trockner](https://www.ggmgastro.com/de-de-eur/gemuesewaschmaschine-und-trockner-gwmte120) für Salat und andere Gemüse ([Video](https://www.youtube.com/watch?v=JyKvD9vX8kY&t=120s) ):: Preis 3,5- 6 TEUR
 - [Allpax :: Gastro und Event Online Shop](https://www.allpax.de/)
 - [Leichtröllchenbahn :: Kistenrollbahn für Waschstrasse](https://shop.layer-grosshandel.de/_schnaeppchen/werkzeug-werkstattbedarf/leichtroellchenbahn-5000-x-600-mm-mit-stuetzen-seitenfuehrung-und-endanschlag.html?is_variant_main=yes&page=1&pos=4&page_size=24) :: Preis um die 1 TEUR
 
