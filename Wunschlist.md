@@ -8,3 +8,4 @@
 -  [Doppler Bodenanker Universal Lochabstand 160/135/120/105 mm](https://www.obi.de/p/9444324/doppler-bodenanker-universal-lochabstand-160-135-120-105-mm?preselectedKp=true)
 -  [einfache Bodendübel feuerverzinkt](https://www.manufactum.de/bodenduebel-feuerverzinkt-a27043/)
 - [extrem Lange bodenhülsen](https://www.zaun-nagel.de/xxl-bodenhuelse-zum-eindrehen.html)
+- [Bodenhülse bis 80cm](https://www.zaun-nagel.de/bodenhuelse-zum-einschlagen-mit-einschubrohr.html)
