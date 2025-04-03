@@ -329,6 +329,11 @@ von 08:00 bis 13:00 Uhr
 - [Mikrolandwirtschaft Plattform](https://www.mikrolandwirtschaft.org/listing/9xgi8tpjfg-solawi-treibgut-market-garden)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
 
+### Marketing / Werbematerialien
+- [Firmenschild für Acker](https://dinkela.com/produkt/bedruckte-schilder-aus-altholz/) :: Druck oder [Laser Graving](https://dinkela.com/produkt/laser-gebrandete-schilder-aus-altholz/)
+- [Firmenkleidung/Merchandise :: T-Shirt oder Kapuzenpulli mit Firmenlogo](https://www.wir-machen-druck.de/t-shirts-damen-digitaldruck-extrem-guenstig-bestellen,category,21473.html)
+- [Weimar Beschriftungen aus Butzbach](http://www.weimar-beschriftung.de/) :: Großformatige Drucke auf Planen, KFZ oder andere Objekte
+
 ### Onlineshop und Verkauf-COOP (als Inspiration und Preisbarometer)
 
 - [truebenecker.de](https://www.truebenecker.de/obst-und-gemuese/) aus Münchner Raum
