@@ -10,3 +10,4 @@
 - [extrem Lange bodenhülsen](https://www.zaun-nagel.de/xxl-bodenhuelse-zum-eindrehen.html)
 - [Bodenhülse bis 80cm](https://www.zaun-nagel.de/bodenhuelse-zum-einschlagen-mit-einschubrohr.html)
 - [Bodenhülse für Diagonale Windverstärkung](https://www.zaun-nagel.de/bodenhuelse-zum-einschlagen-mit-kopfplatte-laenge-500-mm.html)
+- [Bodenhülse für Pergola und große Mastbalken für Sonnensegel](https://www.gartenpirat.de/einschlagbodenhuelse-pfostentraeger-rund-121-mm-verzinkt/a-2246/)
