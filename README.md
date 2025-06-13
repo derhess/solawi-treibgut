@@ -202,6 +202,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Bullfix : Montageprofile für Regale usw.](https://www.bullfix.net/montageprofile/)
 - [Rohrverbinder : Gerüstbau, Mini-Gewächshaus oder anderes](https://www.rohr-verbinder.de/)
 - [Schellen: Online Shop für Befestigungen aller Art](https://www.schellen-shop.de/)
+- [Alu Profile und viel Zubehör (Rollen, Schienen, Motor](https://www.motedis.com/)
 - [Alu Profile - Modulare Konstruktionskits](https://aluboerse.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Dold : Meachatronik Profile](https://www.dold-mechatronik.de/)
