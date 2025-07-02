@@ -211,6 +211,8 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Spedition : lasi24-shop - Ladungssicherung Austatter](https://www.lasi24-shop.de/anwendungsbereich/?p=2)
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw.
 
+- Sonstige: Bootzubehör (häufig exterm wetterfest)--> https://www.boatoon.com/
+
 ### Montage Hacks
 
 - [Farm Hack Tools](https://farmhack.org/tools)
