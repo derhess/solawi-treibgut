@@ -348,6 +348,7 @@ von 08:00 bis 13:00 Uhr
 
 - [truebenecker.de](https://www.truebenecker.de/obst-und-gemuese/) aus Münchner Raum
 - [Queerbeet](https://www.querbeet.de/) aus Wetterau (Hessen)
+- [Biohopper](https://www.biohopper-shop.de/) - Onlineversand Friedberg aus Wetterau
 - [Obstwelt](https://www.obstwelt.com/) aus Darmstadt Onlinehändler
 - [Gemüse-bestellen.de](https://gemuese-bestellen.de/) - Online Shop aus Bayern
 - [BioLaboratorium](https://www.biolaboratorium.com/) - aus Polen für deutschen Markt
