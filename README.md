@@ -13,6 +13,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gemüsetechnik Trinkel](https://www.gemuesetechnik.de/) für die etwas größere Gemüsebaufraktion
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
 
+### Gemüsebau und Robotik
+- [Naturerobots](https://naturerobots.com/) und [Instagram](https://www.instagram.com/naturerobots/) siehe Demo Day
+- 
+
 ## Anbau Kits
 - [Qlipr : Aufleitsystem aus Holland für Tomaten und Gurken im Gewächshaus](https://www.pellikaanq.com/products/qlipr) und [RegAG QLIPR](https://reagtools.co.uk/collections/qlipr)
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
@@ -20,9 +24,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ## Gewächshaus / Folientunnel Hersteller
 - [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/)
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
-- [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser)
+- [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser) - Folientunnel der Marke [Rovero](https://www.exner-gruenetechnik.de/folienhauser-2/rovero-foliengewachshauser)
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
 - [Stabil, groß, und Thermo :: Götsch und Fälschle](https://www.goetsch-faelschle.de/)
+- [Stabil, groß und Thermo :: Schick & Bieber](https://foliengewaechshaeuser.de/) - angeblich gute Preis/Leistung und Alternative zu Götsch und Fälschle
 - [Konzenr für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
 
 ### Ausländische Folientunnel Hersteller
@@ -37,6 +42,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
 - [Stihl : Profi High Quality Akku Systeme für Gartenbau und Streuobstwiese](https://www.stihl.de/de)
 - [Inspiration :: Elektrifizierung von Farm Equipment aus der Tüftler Perspektive](https://www.youtube.com/watch?v=x4Q8-_6T3kM)
+
+
 
 ## Gemüsebau & Obst Handwerk
 
@@ -351,6 +358,7 @@ von 08:00 bis 13:00 Uhr
 - https://www.obstlieferei.de/
 - https://www.landkorb.de/Frisches-Gem%C3%BCse
 - https://www.obst-gemüse-express.de
+- https://www.herzapfelhof.de/ - Online Shop für frische Bio Äpfel, Pflaumen, Kirschen, Birnen usw.
 - https://www.lebegesund.de/
 
 ## Schulungen, Webinare
