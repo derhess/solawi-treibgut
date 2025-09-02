@@ -83,6 +83,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Fachzeitschrift Gartenbau :: Hortigate](https://www.hortigate.de/) - Das Informationsnetzwerk Gartenbau (Gemüse und Obst)
 - [Fachzeitschrift Gemüse :: Professionellen Gemüsebau](https://www.gemuese-online.de/) - vom Ulmer Fachverlag
 - [DE :: Hortipendium - das grüne Lexikon](https://www.hortipendium.de/Willkommen_bei_Hortipendium)
+- [Organic ePrints :: Paper Datenbank Handlungsempfehlungen](https://orgprints.org/id/eprint/39789/)
 - [NL :: Online Pflanzen Wurzelatlas](https://images.wur.nl/digital/collection/coll13/search)
 - [Hortigate - Informationsdienst Gartenbau](https://www.hortigate.de/)
 - [DE :: Schadbilder Gemüse](https://www.sperli.de/dumm-gelaufen/)
@@ -378,3 +379,8 @@ von 08:00 bis 13:00 Uhr
 ## Buchhaltung
 - [Steuerbüro :: LBH Steuerberatung mbH](https://www.lbh.de/niederlassung/friedberg)
 - https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Betriebspruefung/AfA-Tabellen/AfA-Tabelle_Gartenbau.html
+
+## Sonstige
+
+### Schallschutz, Windschutz, Zaun, Grundstückabgrenzung
+- [Grüne Schalltschutzwand mit Solar von RAU](https://rau.de/de/produkt/rau-photovoltaik/)
