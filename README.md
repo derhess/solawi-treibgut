@@ -30,6 +30,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Stabil, groß und Thermo :: Schick & Bieber](https://foliengewaechshaeuser.de/) - angeblich gute Preis/Leistung und Alternative zu Götsch und Fälschle
 - [Konzenr für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
 
+### Gewächshäuser Stabil, Stylisch und Hobby
+- [Lucama - Gewächshaus aus Holz](https://lucama.de/)
+- [Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
+
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
 - [UK :: First Tunnel](https://www.firsttunnels.co.uk/) und [Konstruktionsanleitungen und Tipps](https://construct.firsttunnels.co.uk/products/10ft/fitting-cover-to-an-aluminium-rail/)
