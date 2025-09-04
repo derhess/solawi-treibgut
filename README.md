@@ -28,7 +28,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
 - [Stabil, groß, und Thermo :: Götsch und Fälschle](https://www.goetsch-faelschle.de/)
 - [Stabil, groß und Thermo :: Schick & Bieber](https://foliengewaechshaeuser.de/) - angeblich gute Preis/Leistung und Alternative zu Götsch und Fälschle
-- [Konzenr für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
+- [Stabil, groß und Glasgewächshäuser :: Kraess GlasCon GmbH](https://www.kraess.de/)
+- [Konzern für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
 
 ### Gewächshäuser Stabil, Stylisch und Hobby
 - [Lucama - Gewächshaus aus Holz](https://lucama.de/)
