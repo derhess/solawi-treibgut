@@ -42,6 +42,9 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [UK: extrem sturmsicher Tunnel : Polycrub](https://www.polycrub.co.uk/)
 - [Belgien :: Filclair mit deutschen Montage Service!](https://www.nitsch-gartenbautechnik.de/produkte/kat/filclair.html)
 
+### Dienstleister rund um Gewächshaus
+- [Fackler Gewächshaustechnik](https://www.fackler-gewaechshaustechnik.de/produkte.html)
+
 ## Elektronische Gartenwerkzeuge
 - [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
 - [Gardena :: für einfache nicht regelmäßige Aufgaben :: 18V Akkus funktionierne mit Bosch Adapter auch mit Makita Akkus](https://www.gardena.com/de/produkte/akku-gartengeraete/power-for-all)
