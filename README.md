@@ -32,8 +32,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Konzern für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
 
 ### Gewächshäuser Stabil, Stylisch und Hobby
-- [Lucama - Gewächshaus aus Holz](https://lucama.de/)
-- [Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
+- [DE :: Lucama - Gewächshaus aus Holz](https://lucama.de/)
+- [DE / UK :: Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
 - [US :: NW GreenPanels :: Gewächshäuser aus Holz](https://www.nwgreenpanels.com/greenhouses)
 
 ### Ausländische Folientunnel Hersteller
