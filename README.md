@@ -34,6 +34,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Gewächshäuser Stabil, Stylisch und Hobby
 - [Lucama - Gewächshaus aus Holz](https://lucama.de/)
 - [Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
+- [US :: NW GreenPanels :: Gewächshäuser aus Holz](https://www.nwgreenpanels.com/greenhouses)
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
