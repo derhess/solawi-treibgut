@@ -45,6 +45,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Dienstleister rund um Gewächshaus
 - [Fackler Gewächshaustechnik](https://www.fackler-gewaechshaustechnik.de/produkte.html)
+- [Beutler :: Wassermanagement](https://www.beutler-behaelter-bau.de/)
 
 ## Elektronische Gartenwerkzeuge
 - [Makita :: Gartengeräte und Werkzeuge - 18V Akkus bervorzugt für unsere autarke Ausgangsituation](https://www.makita.de/products/gartenger%C3%A4te.html)
