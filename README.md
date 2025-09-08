@@ -139,6 +139,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Dienstleister
 
 [Österreich :: FarmSolutions](https://farmsolutions.at/)
+[Deutschland :: Wasserspeicher Management Beutler](https://www.beutler-behaelter-bau.de/)
+
 
 ### Rechner / Kalkulation
 
