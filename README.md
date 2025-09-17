@@ -30,11 +30,15 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Stabil, groß und Thermo :: Schick & Bieber](https://foliengewaechshaeuser.de/) - angeblich gute Preis/Leistung und Alternative zu Götsch und Fälschle
 - [Stabil, groß und Glasgewächshäuser :: Kraess GlasCon GmbH](https://www.kraess.de/)
 - [Konzern für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
+- [Konzern für Folientunnel Solo- und Mehrschifflandschaften :: Progresstunnels](https://progresstunnels.de/)
+- [Konzern für Mehrschiffige Folientunnel :: Richel Group](https://richel-group.de/sous_home/gewaechshaeuser-mit-folieneindeckung/)
+- [Konzern für Lagerhallen mit Plane] :: Covertop](https://covertop.de/)
 
 ### Gewächshäuser Stabil, Stylisch und Hobby
 - [DE :: Lucama - Gewächshaus aus Holz](https://lucama.de/)
 - [DE / UK :: Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
 - [US :: NW GreenPanels :: Gewächshäuser aus Holz](https://www.nwgreenpanels.com/greenhouses)
+- [DE und NO :: Norhage :: Stabile Geäwächshäuser](https://norhage.de/product/sturmsicheres-gewaechshaus-makan-16-160m%C2%B2/) auch aus [Holz](https://norhage.de/product/rahmen-fuer-gewaechshaus-holz-700/)
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
