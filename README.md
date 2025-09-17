@@ -32,7 +32,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Konzern für Hight Tech Greenhouses :: Royal Brinkmann](https://royalbrinkman.com/)
 - [Konzern für Folientunnel Solo- und Mehrschifflandschaften :: Progresstunnels](https://progresstunnels.de/)
 - [Konzern für Mehrschiffige Folientunnel :: Richel Group](https://richel-group.de/sous_home/gewaechshaeuser-mit-folieneindeckung/)
-- [Konzern für Lagerhallen mit Plane] :: Covertop](https://covertop.de/)
+- [Konzern für Lagerhallen mit Plane :: Covertop](https://covertop.de/)
 
 ### Gewächshäuser Stabil, Stylisch und Hobby
 - [DE :: Lucama - Gewächshaus aus Holz](https://lucama.de/)
