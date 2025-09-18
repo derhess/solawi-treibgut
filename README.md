@@ -141,6 +141,11 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ## Bewässerungstechnik
 
+### Händler
+
+- [DE :: Reber Beregnung](https://www.reberberegnung.de/)
+- [DE :: Cordes Beregnung Landwirtschaft](https://www.cordes-beregnung.de/)
+
 ### Dienstleister
 
 [Österreich :: FarmSolutions](https://farmsolutions.at/)
