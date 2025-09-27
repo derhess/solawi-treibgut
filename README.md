@@ -180,6 +180,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Organic Tools :: Obstraupe](https://www.organic-tools.com/obstauflesemaschine-obstraupe)
 - [Weitere Werkzeuge in der Übersicht](https://www.lwg.bayern.de/landespflege/gartendokumente/fachartikel/091447/index.php#:~:text=100%20cm%20Arbeitsbreite%20haben%20die,16.000%20%E2%82%AC%20und%2021.000%20%E2%82%AC.)
 
+#### Mosterei / Kelterei
+- https://www.fischer-lahr.de/ (kleine bis große Maschinen rund ums Mosten)
+- https://www.obsttechnik.de/ (kleine bis große Maschinenen rund ums Mosten und Marmelade)
+
 ### Post-Ernte Werkzeuge
 
 #### Waschen
