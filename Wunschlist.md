@@ -21,3 +21,6 @@
 ## Wasserfilter
 - Umkehrosmoseanlage 60/120/180 l/h - IBC Tank und Druckerhöhung https://aft-shop.de/Umkehrosmoseanlage-60-120-180-l-h-IBC-Tank-und-Druckerhoehung/10062.2
 - Enthärtung https://www.wiltec.de/wiltec-soft-d-wasserenthaertungsanlage-wasserentkalkung-mit-1000-l-h-entkalkungsanlage-mit-ionentauscher-wasserenthaerter-mit-30-l-soletank/52362
+
+  ## Konstruktion Aussenbereich
+  - https://www.holzzentrum.de/bangkirai-unterkonstuktion/366-cm-90-x-90-mm
