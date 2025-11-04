@@ -119,11 +119,13 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Baumschule Nussspezialist aus Kaiserstuhl](https://www.nussspezialist.de/) - Spezialist für Wallnuss und Haselnuss
 - [AT :: Baumschule Schreiber aus Österreich](https://schreiber-baum.at/) - Siehe Youtube Video mit breiten Sortiment an frostharten Sorten und Kulturen (z.B. Pfirsich)
 
-### Lohn Brennerei / Lohn Mosterei
+### Lohn Brennerei / Lohn Mosterei / Lohn Ölpresse
 - [DE :: Bad Nauheim :: Rote Pumpe](https://rote-pumpe.de/)
 - [Hessen :: Allgemeine Übersicht Lohnkelterei / Mostservice](https://www.nabu.de/natur-und-landschaft/landnutzung/streuobst/service-und-adressen/05812.html)
+- [Hessen :: Altenstadt :: Seemenbach Kelterei](https://wetteraukreis.de/direktvermarkter/direktvermarkter/nach-orten-sortiert/seemenbach-kelterei) (Junges Team, Empfehlung von Hendrik)
 - [Hessen :: Büdingen :: Destillerie Schneider](https://www.destillerie-schneider.de/) - Brennerei für Zwetschgen, Mirabellen, etc.
 - [Hessen :: Allgemeine Übersicht Lohnbrennerei](https://www.nabu.de/natur-und-landschaft/landnutzung/streuobst/service-und-adressen/14020.html#frage4)
+- [Baden-Württemberg :: Speisemanufaktur Bondorf :: Wallnüsse Knacken und Wallnussölpresse in Lohn](https://www.speiseoelmanufaktur-bondorf.de/) (Funktioniert bereits ab 15-30kg Walnüsse)
 
 ### Reallabore
 
