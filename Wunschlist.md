@@ -11,3 +11,12 @@
 - [Bodenhülse bis 80cm](https://www.zaun-nagel.de/bodenhuelse-zum-einschlagen-mit-einschubrohr.html)
 - [Bodenhülse für Diagonale Windverstärkung](https://www.zaun-nagel.de/bodenhuelse-zum-einschlagen-mit-kopfplatte-laenge-500-mm.html)
 - [Bodenhülse für Pergola und große Mastbalken für Sonnensegel](https://www.gartenpirat.de/einschlagbodenhuelse-pfostentraeger-rund-121-mm-verzinkt/a-2246/)
+
+## Regenrinne
+- https://www.abnd.com/de-de/p/pagodenzelt-regenrinne-4m-weiss/10800012/
+- https://www.duratent.de/zubehoer/regenrinnen-verbinder/duratent-regenrinne-4-5m-weiss
+- https://www.motea.com/de/regenrinne-passend-fur-rennzelte-tourtecs-verbindungsrinne-pavillon-regenschutz-wz16-a487726-0 und https://www.motea.com/de/5er-set-regenrinne-passend-fur-rennzelte-tourtecs-verbindungsrinne-pavillon-regenschutz-a583297-0
+- https://www.hochstaedter.de/folientunnel/regendach/
+
+## Wasserfilter
+- Umkehrosmoseanlage 60/120/180 l/h - IBC Tank und Druckerhöhung https://aft-shop.de/Umkehrosmoseanlage-60-120-180-l-h-IBC-Tank-und-Druckerhoehung/10062.2
