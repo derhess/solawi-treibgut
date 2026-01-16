@@ -75,6 +75,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Kalkulationshilfen für Erträge und Deckungsbeiträge](https://www.stmelf.bayern.de/idb/default.html)
 - [Landwirtschaft GeoBox-Viewer für Hessen](https://geobox-i.de/GBV-HE/)
 - [Wetteraukreis Geo Viewer - Vermarkter, Radwege usw.](https://gis.wetterau.de/GISWetterau/synserver?client=core&project=GISTourismus&view=Landgenuss&x=490692,55&y=5577788,65&scale=200000)
+
+#### Open Source Tools
+- [Home Box :: Inventar / einfache Lagerverwaltung](https://homebox.software/)
+- [Snipe It :: Inventar / umfangreiche Lagerverwaltung](https://snipeitapp.com/)
+- [ODOO :: ERP / Business Managment](https://www.odoo.com/)
+- [Grist :: Tabellenkalkulations (Excel Alternative)](https://www.getgrist.com/)
   
 ### Verbände, Netzwerke
 
