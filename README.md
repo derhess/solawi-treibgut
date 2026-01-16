@@ -390,6 +390,8 @@ von 08:00 bis 13:00 Uhr
 - [Mikrolandwirtschaft Plattform](https://www.mikrolandwirtschaft.org/listing/9xgi8tpjfg-solawi-treibgut-market-garden)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
 
+#### Messe
+
 - [Messe :: ExpoSE :: für landwirtschaftliche Direktvermarktung](https://www.expo-se.de/)
 
 ### Verkaufssysteme / Hofladenladen
