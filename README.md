@@ -390,6 +390,11 @@ von 08:00 bis 13:00 Uhr
 - [Mikrolandwirtschaft Plattform](https://www.mikrolandwirtschaft.org/listing/9xgi8tpjfg-solawi-treibgut-market-garden)
 - [AMI - Agrarmarkt Informations-Gesellschaft mbH](https://www.ami-informiert.de/ami-meldungen-gartenbau) :: Marktforschung Institut mit Preisbarometer
 
+- [Messe :: ExpoSE :: für landwirtschaftliche Direktvermarktung](https://www.expo-se.de/)
+
+### Verkaufssysteme / Hofladenladen
+- [Ackerpay :: Hardware und Software](https://ackerpay.com/) 
+
 ### Marketing / Werbematerialien
 - [Firmenschild für Acker](https://dinkela.com/produkt/bedruckte-schilder-aus-altholz/) :: Druck oder [Laser Graving](https://dinkela.com/produkt/laser-gebrandete-schilder-aus-altholz/)
 - [Firmenkleidung/Merchandise :: T-Shirt oder Kapuzenpulli mit Firmenlogo](https://www.wir-machen-druck.de/t-shirts-damen-digitaldruck-extrem-guenstig-bestellen,category,21473.html)
@@ -416,7 +421,7 @@ von 08:00 bis 13:00 Uhr
 #### Streuobst Produkte (als Inspiration)
 - [DE :: van Nahmen :: sortenreine Premium Säfte und Seccos](https://www.vannahmen.de/)
 - [DE :: Kyffhäuserobst :: Marmelade](https://www.Kyffhäuserobst.de)
-- 
+- [DE :: Krenzer :: alkohlische Premium Getränke](https://krenzers-shop.de/)
 
 ## Schulungen, Webinare
 - [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
