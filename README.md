@@ -261,9 +261,9 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [DE :: Heras Bauzaunsystem](https://www.heras-mobile.de/) mit [LKW](https://www.heras-mobile.de/lkw-tore) und [Personentoren](https://www.heras-mobile.de/personen-tore)
 - [DE :: Bauzaunsets](https://billigerbauzaun.de/) mit [Windstützen](https://billigerbauzaun.de/products/bauzaun-stutzstrebe-windstutzstrebe-fur-bauzaun?currency=EUR&variant=44755657490724) und billigere [B-Ware](https://billigerbauzaun.de/collections/b-ware)
 
-### Montage Solar
+### Montage Solar / PV System
 - [DE :: Aluprofile Solar Montagekit](https://shop.europe-solar.de/Montagematerial/)
-- 
+- [NL :: GreenPower Supply :: komplett Off-Grid Systeme](https://greenpowersupplies.nl/en/)
 
 ### Montage Hacks
 
