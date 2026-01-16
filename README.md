@@ -22,7 +22,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [LowCat: Mini Tunnel System](https://neversinktools.com/en-fr/products/lowcat-low-tunnel-starter-kit) für geschützten (Freiland) Anbau
 
 ## Gewächshaus / Folientunnel Hersteller
-- [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/)
+- [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/) inkl. [Catepillar Tunnels](https://www.hochstaedter.de/folientunnel/regendach/)
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
 - [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser) - Folientunnel der Marke [Rovero](https://www.exner-gruenetechnik.de/folienhauser-2/rovero-foliengewachshauser)
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
@@ -37,8 +37,10 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Gewächshäuser Stabil, Stylisch und Hobby
 - [DE :: Lucama - Gewächshaus aus Holz](https://lucama.de/)
 - [DE / UK :: Gabriel Ash - Premium Gewächshäuser aus Holz und mit Glas](https://gabrielash.com/de)
+- [UK :: Alton :: Premium Gewächshaus aus Holz mit Glas](https://altongreenhouses.co.uk/)
 - [US :: NW GreenPanels :: Gewächshäuser aus Holz](https://www.nwgreenpanels.com/greenhouses)
-- [DE und NO :: Norhage :: Stabile Geäwächshäuser](https://norhage.de/product/sturmsicheres-gewaechshaus-makan-16-160m%C2%B2/) auch aus [Holz](https://norhage.de/product/rahmen-fuer-gewaechshaus-holz-700/)
+- [DE und NO :: Norhage :: Stabile Gewächshäuser](https://norhage.de/product/sturmsicheres-gewaechshaus-makan-16-160m%C2%B2/) auch aus [Holz](https://norhage.de/product/rahmen-fuer-gewaechshaus-holz-700/)
+- [DE :: Selfkant Wolters :: Glas Gewächshaus](https://www.selfkant-wolters.de/)
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
@@ -49,6 +51,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 ### Dienstleister rund um Gewächshaus
 - [Fackler Gewächshaustechnik](https://www.fackler-gewaechshaustechnik.de/produkte.html)
+- [AT :: Fiala - Gewächshaus/Folientunnel Zubehör wie z.B. Regenrinne](https://www.foliengewaechshaus.at/befestigungssysteme/alu-profile/)
 - [Beutler :: Wassermanagement](https://www.beutler-behaelter-bau.de/)
 
 ## Elektronische Gartenwerkzeuge
@@ -76,6 +79,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Verbände, Netzwerke
 
 - [Bundesfachgruppe :: Gemüsebau](https://www.gemuesebau.org/)
+- [Ökologisches Saatgut Förderverein :: Saat:gut e.V.](https://www.saat-gut.org/)
 - [FIBL :: Forschungsinstitut biologischer Landbau](https://www.fibl.org/de) | [YouTube](https://www.youtube.com/user/FiBLFilm)
 - [soliarische Landwirtschaft Netzwerk](https://www.solidarische-landwirtschaft.org/)
 - [SoLaWi als Genossenschaft Arbeitsgruppe](https://solawi-genossenschaften.net/)
@@ -103,6 +107,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [DE :: Schadbilder Gemüse](https://www.sperli.de/dumm-gelaufen/)
 - [DE :: Buch - Atlas der Krankheiten, Schädlinge und Nützlinge im Obst- und Weinbau](https://www.thalia.de/shop/home/artikeldetails/A1033947179?)
 - [DE :: Buch - Handbuch zur visuellen Diagnose von Ernährungsstörungen bei Kulturpflanzen](https://link.springer.com/book/10.1007/978-3-662-49145-4)
+- [DE :: Wiki :: Streuobst](https://streuobst-wiki.eu/)
 
 ### Jungpflanzen
 
@@ -233,6 +238,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ## Montage Kits
 Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkeit wäre schön, daher einpaark Montagekits
 
+- [Befestigungssysteme für Planen, Netze, Seile :: GeKaHo](https://gekaho-shop.de/befestigung-zubehoer/) und andere [Konstruktionkits für kleine Gartennhäuser](https://www.gekaho.de/steckverbinder/)
 - [Schraubfundamente](https://www.zimmereibedarf.com/de/verbindungssysteme/schraubfundamente) : Befestingung für Boden - meistens nicht Baugenehmigungspflichtig - leicht zurückzubauen
 - Steckverbinder für Überdachung Konstruktion : [Suki](https://suki.com/pwc/index.html) und [Habercube](https://ideamo.shop/collections/holzverbindungselemente) 
 - [Bullfix : Montageprofile für Regale usw.](https://www.bullfix.net/montageprofile/)
@@ -248,6 +254,16 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw.
 
 - Sonstige: Bootzubehör (häufig exterm wetterfest)--> https://www.boatoon.com/
+- Sonstige: Baustellenzubehör für kurzfristige Lösungen, Zaun, Lagerung, Strom usw. --> https://baushop-nrw.de/baubedarf
+
+### Montage Kit Mobiler Zaun
+- [DE :: Bauzaunzubehör mit zum Teil massiven Zäunen](https://www.absperren24.de/bauzaun-mobilzaun/) inkl. [Lärmschutz](https://www.absperren24.de/laermschutz/), [Holz](https://www.absperren24.de/holzbauzaun/) und [Zubehör](https://www.absperren24.de/bauzaun-mobilzaun-zubehoer/)
+- [DE :: Heras Bauzaunsystem](https://www.heras-mobile.de/) mit [LKW](https://www.heras-mobile.de/lkw-tore) und [Personentoren](https://www.heras-mobile.de/personen-tore)
+- [DE :: Bauzaunsets](https://billigerbauzaun.de/) mit [Windstützen](https://billigerbauzaun.de/products/bauzaun-stutzstrebe-windstutzstrebe-fur-bauzaun?currency=EUR&variant=44755657490724) und billigere [B-Ware](https://billigerbauzaun.de/collections/b-ware)
+
+### Montage Solar
+- [DE :: Aluprofile Solar Montagekit](https://shop.europe-solar.de/Montagematerial/)
+- 
 
 ### Montage Hacks
 
@@ -390,6 +406,11 @@ von 08:00 bis 13:00 Uhr
 - https://www.obst-gemüse-express.de
 - https://www.herzapfelhof.de/ - Online Shop für frische Bio Äpfel, Pflaumen, Kirschen, Birnen usw.
 - https://www.lebegesund.de/
+
+#### Streuobst Produkte (als Inspiration)
+- [DE :: van Nahmen :: sortenreine Premium Säfte und Seccos](https://www.vannahmen.de/)
+- [DE :: Kyffhäuserobst :: Marmelade](https://www.Kyffhäuserobst.de)
+- 
 
 ## Schulungen, Webinare
 - [Free Online : Sattin Hill Farm Course : General Market Gardening Course](https://www.youtube.com/playlist?list=PLLhRvDbqclpaKG2pYidQ3P2U0sPcY-5I2)
