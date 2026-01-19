@@ -173,6 +173,11 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Durchflussrechner](https://www.gfps.com/de-de/downloads-tools/online-tools/flow-calculator.html) <> [Tutorial](https://www.youtube.com/watch?v=_DdLC1x87IY)
 - [DVS Beregnungsplaner :: eher für kleinere (private) Vorhaben](https://dvs-beregnung.de/services/bewaesserung-zeichentool)
 
+### Sensoren
+
+- [Rachio :: Durchlauf - (Menge) Sensor und Ventile](https://rachio.com/) - dezentral über Wifi
+- [OpenSprinkler :: Open Hardware Bewässerungscontroller](https://opensprinkler.com/) - über WiFI
+
 ## Dünger
 
 ### Flüssig und Blattdünger
