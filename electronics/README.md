@@ -16,7 +16,7 @@
 ## Garten Sensor
 
 - [MiYo](https://miyo.garden/de-de/collections/all)
-- [Dragino](https://www.dragino.com/products/water-meter-flow-sensor/item/222-sw3l.html)
+- [Dragino Agriculture Platform](https://www.dragino.com/products/agriculture-weather-station.html) und einfache [Sensorik](https://www.dragino.com/products/water-meter-flow-sensor/item/222-sw3l.html)
 
 ## Waage / Ernteerfassung
 - [spritzfeste Gram Waage mit USB Interface](https://waagenet.de/gram-s3/) und [wasser-staubfeste industrie Variante](https://waagenet.de/gram-xtrem-f/?attribute_pa_verification=verified&attribute_pa_dimensions_plate=300-x-240-mm&attribute_pa_capacity_resolution=15-30-kg-5-10-g) inkl. [Software Tools](https://gram-group.com/product/gram-virtual-key/)
@@ -26,6 +26,7 @@
 
 ### Raspberry PI mit LoraWan
 - [Dragino Tutorial](https://www.dragino.com/products/lora/item/149-lora-gps-hat.html) und [Video Tutorial](https://www.elektormagazine.de/news/lorawan-preiswert-und-einfach-mit-raspberry-pi-und-dragino)
+
 
 
 
