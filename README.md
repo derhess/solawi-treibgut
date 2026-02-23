@@ -190,10 +190,12 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Salat Ernte
 
 - [Quick Cut -Schnittsalat Ernte mit Akkuschrauber](https://www.hartmann-brockhaus.de/detail/Quick-Cut-Harvester---Schnittsalaternter)
+- [Hackmöglichkeit :: Tee Ernte Cutter](https://www.hortihands.com/de/eazycut/eazycut-1200-1600), wie z.B. bei Kräutern und Queller verwendet ( [tragbar](https://www.hortihands.com/de/eazycut/eazycut-600-rucksack-stutzmachine) ). Europäischer Vertrieb via [PackTTI](https://webshop.packtti.com/)
+- [Tea Picking Machine elektrisch](https://www.bomatools.com/Tea-Leaf-Harvester-Tea-Plucking-Shear-Mini-Tea-Harvester-Price-pd44974901.html) / [Version 2](https://www.amazon.com/Electric-Waterproof-Stainless-Portable-Wear-resistant/dp/B0DHZX7T34) und [Tea Plucking Shear - manuell](https://www.industrybuying.com/garden-tools-falcon-AGR.SHE.92877391) / [Version 2](https://www.tradeindia.com/products/tea-plucking-shear-blade-5807451.html)
 
 ### Obst Ernte
 
-- Beerenpflücker
+- [Beerenpflücker](https://biogartenversand.de/gartengeraete/ernte-lagerung/obstpfluecker/beerenpfluecker-holz)
 - [Feucht Obsttechnik :: Auflesemaschine und Baumrüttler](https://feucht-obsttechnik.de/de/obsterntetechnik/obstauflesemaschinen/) - große Maschine und teilweise Traktor benötigt
 - [Fallobst :: Obstsammler aus AT](https://obstsammler.com/) - beschädigt die Äpfel
 - [Organic Tools :: Obstraupe](https://www.organic-tools.com/obstauflesemaschine-obstraupe)
@@ -219,6 +221,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 
 #### Kühlung / Lagerung
 - [DE :: Erdkeller](https://gewoelbekeller.neuschwander.de/de/erdkeller.html) - [Kosten ab 7.5 TEUR](https://gewoelbekeller.neuschwander.de/de/der-clou.html) mit [Praxisbeispielen](https://gewoelbekeller.neuschwander.de/de/obst-gemueselager.html)
+- [CoolBot mit Klima Split Anlage Hack](https://www.storeitcold.com)
  
 #### Bindemaschine / Bündelung
 - [Japan Agritrading :: Tabanera Gemüsebindebandspender 300-V :: Simpel Version](https://japan-agritrading.com/de/products/tabanera-vegetable-binding-tape-dispenser-300-v)
