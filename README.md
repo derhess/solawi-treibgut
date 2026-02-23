@@ -41,6 +41,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [US :: NW GreenPanels :: Gewächshäuser aus Holz](https://www.nwgreenpanels.com/greenhouses)
 - [DE und NO :: Norhage :: Stabile Gewächshäuser](https://norhage.de/product/sturmsicheres-gewaechshaus-makan-16-160m%C2%B2/) auch aus [Holz](https://norhage.de/product/rahmen-fuer-gewaechshaus-holz-700/)
 - [DE :: Selfkant Wolters :: Glas Gewächshaus](https://www.selfkant-wolters.de/)
+- [DE ;; My Food Gewächshaus :: medium stabiles Gewächshaus](https://myfood.eu/de/entdecken-sie-das-innovative-gewaechshaus/) mit vielen extra Zubehörmodulen (wie z.B. Solar) | [Video](https://www.youtube.com/watch?v=PKWJ0izro0M&t=21s)
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
