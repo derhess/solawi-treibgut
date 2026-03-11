@@ -25,6 +25,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Stabil und groß :: Hochstädter-Direkt](https://www.hochstaedter.de/folientunnel/starke-einzeltunnel/) inkl. [Catepillar Tunnels](https://www.hochstaedter.de/folientunnel/regendach/)
 - [Stabil und groß :: Poppen](https://gewaechshaus-poppen.de/de/bereiche/gewaechshausbau/gewaechshaeuser/folientunnel-typ-1200/)
 - [Exxner Grüne Technik aus Brandenburg](https://www.exner-gruenetechnik.de/folienhauser) - Folientunnel der Marke [Rovero](https://www.exner-gruenetechnik.de/folienhauser-2/rovero-foliengewachshauser)
+- [DE :: Mehrschiffig, verschiedene Varianten :: Metasa](https://metasa.de/produkte-2#folientunnel) inkl. Zubehör
 - [billig und StartUp freundlich, aber windanfällig :: FVG Profiline](https://fvg-folien.de/produkt-kategorie/roemi-profiline/)
 - [Stabil, groß, und Thermo :: Götsch und Fälschle](https://www.goetsch-faelschle.de/)
 - [Stabil, groß und Thermo :: Schick & Bieber](https://foliengewaechshaeuser.de/) - angeblich gute Preis/Leistung und Alternative zu Götsch und Fälschle
