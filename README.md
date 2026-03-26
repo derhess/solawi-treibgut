@@ -330,6 +330,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - https://www.bobilvans.co.uk/
 - https://tinybuildelectrics.com/
 - https://www.bluesea.com/
+- https://solarventi.de/anwendungen/tiny-house (Lüftung mit Solar)
 - https://www.klimaworld.com/
 - https://www.das-buswerk.de/
 - https://www.hauptsachetiny.de/
