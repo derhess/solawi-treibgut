@@ -11,6 +11,7 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [Gartenbautechnik Geereking](https://www.gartenbautechnikgeereking.de/)
 - [Terrateck](https://www.terrateck.com/de/)
 - [Gemüsetechnik Trinkel](https://www.gemuesetechnik.de/) für die etwas größere Gemüsebaufraktion
+- [NL: Mertens Group - großer Austatter Obst- und Gemüsebau](https://www.mertens-groep.nl/de/)
 - sonstige [gute Auflistung von MarketGarden.de](https://marketgarden.de/bezugsquellen/)
 
 ### Gemüsebau und Robotik
@@ -262,12 +263,20 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Alu Profile - Modulare Konstruktionskits](https://aluboerse.de/)
 - [ITEM Profile : Maschinenbau, Mechatronik oder Prototypenbau Geräte für Market Garden](https://de.item24.com/)
 - [Dold : Meachatronik Profile](https://www.dold-mechatronik.de/)
+- [MuePro Installationsschienen](https://www.muepro.de/Produkte/Befestigungstechnik/Installationsschienen/)
 - [Baumarkt : Profilsystem für Befestigungen : UBB ](https://www.bauhaus.info/befestigungssysteme/c/10001824)
 - [Heizungsbau : HD24 Monage Schienen](https://www.hd24.de/befestigungstechnik.php)
 - [Spedition : lasi24-shop - Ladungssicherung Austatter](https://www.lasi24-shop.de/anwendungsbereich/?p=2)
 - weitere Montage Kits, wie z.B. Combitech (Toom Baumarkt), alfer Aluminium (Bauhaus), [Alusteck](https://www.alusteck.de/fruehbeet-selber-bauen-fruehbeetaufsatz-anleitung/), usw.
 
-- Sonstige: Bootzubehör (häufig exterm wetterfest)--> https://www.boatoon.com/
+### Sonstige: Bootzubehör (häufig exterm wetterfest)
+- https://www.boatoon.com
+- https://klabautershop.de/
+- https://www.bluesea.com/
+- https://carawater.de/
+
+#### Sonstiges
+
 - Sonstige: Baustellenzubehör für kurzfristige Lösungen, Zaun, Lagerung, Strom usw. --> https://baushop-nrw.de/baubedarf
 
 ### Montage Kit Mobiler Zaun
@@ -278,6 +287,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 ### Montage Solar / PV System
 - [DE :: Aluprofile Solar Montagekit](https://shop.europe-solar.de/Montagematerial/)
 - [NL :: GreenPower Supply :: komplett Off-Grid Systeme](https://greenpowersupplies.nl/en/)
+- [DE :: Walraven - Montagesystem](https://www.walraven.com/de/walraven-befestigungsloesungen-solaranlagen/)
 
 ### Montage Hacks
 
@@ -292,6 +302,23 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [Victron :: MPPT Calculator](https://mppt.victronenergy.com/?locale=de)
 - [Formel Reihenabstand Module Flachdach](https://echtsolar.de/abstand-photovoltaik-flachdach/)
 - [Flachdach Montage Kit (z.B. direkt oben auf mehreren IBC Containern verankern)](https://www.eurotec.team/produkte/solarbefestigung/gelenk-fuer-modulaufstaenderung-vorne)
+- [Generator :: Thiet Solar Hybrid Mobile](https://thiet.de/produkte/hybridgeneratoren/wtp-mgtp-24000-30-ths-lithium-3p/)
+- 
+
+### PV Montage Offgrid/Van Life /Tiny House
+- https://klabautershop.de/
+- https://www.fraron.de/
+- https://nohma.com/
+- https://www.tigerexped.de/
+- https://www.bobilvans.co.uk/
+- https://tinybuildelectrics.com/
+- https://www.bluesea.com/
+- https://www.klimaworld.com/
+- https://www.das-buswerk.de/
+- https://www.hauptsachetiny.de/
+- https://www.tiny-house-manufaktur.de/
+- https://campluxoutdoors.de/
+- https://www.klymit.eu/de/collections/waterport?
 
 ### Solar Pumpen
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
