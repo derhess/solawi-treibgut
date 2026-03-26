@@ -44,6 +44,8 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - [DE und NO :: Norhage :: Stabile Gewächshäuser](https://norhage.de/product/sturmsicheres-gewaechshaus-makan-16-160m%C2%B2/) auch aus [Holz](https://norhage.de/product/rahmen-fuer-gewaechshaus-holz-700/)
 - [DE :: Selfkant Wolters :: Glas Gewächshaus](https://www.selfkant-wolters.de/)
 - [DE ;; My Food Gewächshaus :: medium stabiles Gewächshaus](https://myfood.eu/de/entdecken-sie-das-innovative-gewaechshaus/) mit vielen extra Zubehörmodulen (wie z.B. Solar) | [Video](https://www.youtube.com/watch?v=PKWJ0izro0M&t=21s)
+- [DE/AT :: Pricess Glasgewächshaus](https://www.princess-glashausbau.at/gewaechshaeuser)
+- [DE : Zubehör Gewächshaus Hobby](https://hunecke-zubehoer.de/Gewaechshaus-Zubehoer)
 
 ### Ausländische Folientunnel Hersteller
 - [USA :: Farmers Friend ::  Haven High Tunnel](https://www.farmersfriend.com/p/haven-high-tunnel?Style=Classic&Length=24%27)
@@ -197,9 +199,14 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 ### Obst Ernte
 
 - [Beerenpflücker](https://biogartenversand.de/gartengeraete/ernte-lagerung/obstpfluecker/beerenpfluecker-holz)
+- [Obsternte Eimer / Pflückkorb](https://altlaender-obst-eg.de/produkt-kategorie/profi-obstbau/pflueckkisten-und-boxen/)
+- [Pflückschlitten](http://www.wieslawkrolik.pl/oferta?cat=3) :: [Variante Kufen](https://www.baywa.de/de/pflanzenbau/obstbau/betriebsmittel/-pflueckschlitten-schwer-mit-kufen-/p-000000000000117062/) | [Variante Räder](https://www.baywa.de/de/pflanzenbau/obstbau/betriebsmittel/heijmul-pflueckschlitten-mit-raedern-/p-000000000000117060/) | [Variante mit Leiter](https://altlaender-obst-eg.de/produkt-kategorie/profi-obstbau/leitern-und-pflueckschlitten/)
+- [Feucht Rollblitz :: Kleine Ernte vom Boden für Äpfel und Nüssen](https://feucht-obsttechnik.de/de/rollblitz/)
 - [Feucht Obsttechnik :: Auflesemaschine und Baumrüttler](https://feucht-obsttechnik.de/de/obsterntetechnik/obstauflesemaschinen/) - große Maschine und teilweise Traktor benötigt
 - [Fallobst :: Obstsammler aus AT](https://obstsammler.com/) - beschädigt die Äpfel
 - [Organic Tools :: Obstraupe](https://www.organic-tools.com/obstauflesemaschine-obstraupe)
+- [Obstbautechnik Bodensee](https://www.obstbautechnik-bodensee.de/produkte/)
+- [NL :: Obstbautechnik heijmul ](https://www.heijmul.nl/de/shop/)
 - [Weitere Werkzeuge in der Übersicht](https://www.lwg.bayern.de/landespflege/gartendokumente/fachartikel/091447/index.php#:~:text=100%20cm%20Arbeitsbreite%20haben%20die,16.000%20%E2%82%AC%20und%2021.000%20%E2%82%AC.)
 
 #### Mosterei / Kelterei
@@ -207,6 +214,15 @@ Liste von Tools und anderen praktischen Dingen für unseren Market Gardening Bet
 - https://www.obsttechnik.de/ (kleine bis große Maschinenen rund ums Mosten und Marmelade)
 
 ### Post-Ernte Werkzeuge
+
+### Entkernen Steinobst
+
+- Privat Minientkerner [Westmark](https://www.westmark.de/de-de/kirschentkerner-kirschomat-black-edition-40707760) und [Produkt 2](https://gastro-brennecke.de/Kirschentkerner-Pflaumenentkerner)
+- Voran [Entsteiner](https://www.voran.at/bereiche/maschinen/produkte/detailansicht/entsteinanlage-ep500)
+
+### Knacken und Sortieren
+
+- [Feucht :: Nussverarbeitung zum Sortieren und Knacken](https://feucht-obsttechnik.de/de/nussverarbeitung/)
 
 #### Waschen
 
@@ -288,6 +304,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - [DE :: Aluprofile Solar Montagekit](https://shop.europe-solar.de/Montagematerial/)
 - [NL :: GreenPower Supply :: komplett Off-Grid Systeme](https://greenpowersupplies.nl/en/)
 - [DE :: Walraven - Montagesystem](https://www.walraven.com/de/walraven-befestigungsloesungen-solaranlagen/)
+- [DE :: Solar Spremberg - komplette Montagesystem ](http://www.solares-spremberg.de/onlineshop/category/montageschienen/) z.B. [Freiland Garten](http://www.solares-spremberg.de/onlineshop/category/komplettlosung-freilandanlage/) oder [Zaun](http://www.solares-spremberg.de/onlineshop/category/komplettlosung-photovoltaikzaun/)
 
 ### Montage Hacks
 
@@ -318,7 +335,8 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - https://www.hauptsachetiny.de/
 - https://www.tiny-house-manufaktur.de/
 - https://campluxoutdoors.de/
-- https://www.klymit.eu/de/collections/waterport?
+- https://www.klymit.eu/de/collections/waterport
+- https://www.camptools.com/collections/equipment
 
 ### Solar Pumpen
 - [Lorentz : Solar Gleichstrompumpe - Autark Szenario z.B. mit Tröpfchenbewässerung)](https://www.lorentz.de/de/s/)
