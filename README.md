@@ -333,6 +333,7 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 - https://www.bluesea.com/
 - https://solarventi.de/anwendungen/tiny-house (Lüftung mit Solar)
 - https://www.klimaworld.com/
+- [Solarkühlschränke](https://mobilekuehlung.com/epages/0e8ad429-d04c-4b6f-8f68-927ceec125b3.sf/de_DE/?ObjectPath=/Shops/0e8ad429-d04c-4b6f-8f68-927ceec125b3/Categories/Produkte/Solarkuehlgerate) (z.B. [Sundanzer DCR 165](https://mobilekuehlung.com/Solar-Kuehltruhe-Sundanzer-DCR-165-12/24-Volt) oder [CoolUp](https://www.africagreentec.com/en/impactproducts/coolup/) oder [CoolTainer](https://www.africagreentec.com/impactproducts/cooltainer/) oder [andere](https://www.solar-qqq.de/tag/kuehlschrank/) )
 - https://www.das-buswerk.de/
 - https://www.hauptsachetiny.de/
 - https://www.tiny-house-manufaktur.de/
