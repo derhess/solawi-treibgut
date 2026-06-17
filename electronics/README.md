@@ -27,14 +27,17 @@
 - https://point-of-sale.dev/
 - https://github.com/NielsLeenheer/WebHidBarcodeScanner ==> Cooler dude von der beyond Tellerand 2026
 - https://github.com/NielsLeenheer/WebSerialBarcodeScanner
+- https://github.com/NielsLeenheer/WebcamBarcodeScanner
 - https://github.com/NielsLeenheer/BarcodeParser
 - https://github.com/NielsLeenheer/KeyboardBarcodeScanner
 
 ## Drucker (Rechnungen, Quittungen auf Thermo Papier)
 
 - https://point-of-sale.dev/
+- https://github.com/NielsLeenheer/ReceiptPrinterPlayground
 - https://github.com/NielsLeenheer/ReceiptPrinterEncoder
 - https://github.com/NielsLeenheer/WebUSBReceiptPrinter
+- https://github.com/NielsLeenheer/WebBluetoothReceiptPrinter
 
 ## Elektronische Displays (Preisschilder, InfoBox)
 
