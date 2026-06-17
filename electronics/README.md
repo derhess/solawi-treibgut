@@ -22,11 +22,32 @@
 - [spritzfeste Gram Waage mit USB Interface](https://waagenet.de/gram-s3/) und [wasser-staubfeste industrie Variante](https://waagenet.de/gram-xtrem-f/?attribute_pa_verification=verified&attribute_pa_dimensions_plate=300-x-240-mm&attribute_pa_capacity_resolution=15-30-kg-5-10-g) inkl. [Software Tools](https://gram-group.com/product/gram-virtual-key/)
 
 - Liste von Waagen mit guten USB Interface https://www.printnode.com/en/docs/supported-scales
-## Tutorials
 
+## Scanner für Erfassung usw.
+- https://point-of-sale.dev/
+- https://github.com/NielsLeenheer/WebHidBarcodeScanner ==> Cooler dude von der beyond Tellerand 2026
+- https://github.com/NielsLeenheer/WebSerialBarcodeScanner
+- https://github.com/NielsLeenheer/BarcodeParser
+- https://github.com/NielsLeenheer/KeyboardBarcodeScanner
+
+## Drucker (Rechnungen, Quittungen auf Thermo Papier)
+
+- https://point-of-sale.dev/
+- https://github.com/NielsLeenheer/ReceiptPrinterEncoder
+- https://github.com/NielsLeenheer/WebUSBReceiptPrinter
+
+## Elektronische Displays (Preisschilder, InfoBox)
+
+- https://github.com/NielsLeenheer/WebSerialCustomerDisplay
+- https://eckstein-shop.de/Vision-E-Ink-E-Paper
+- https://digitalewelt.at/smart-mirror-raspberry-pi-teil1/
+
+
+## Tutorials
+- https://point-of-sale.dev/
 ### Raspberry PI mit LoraWan
 - [Dragino Tutorial](https://www.dragino.com/products/lora/item/149-lora-gps-hat.html) und [Video Tutorial](https://www.elektormagazine.de/news/lorawan-preiswert-und-einfach-mit-raspberry-pi-und-dragino)
-
+- https://www.localmesh.de/ mit https://www.antratek.de/sensecap-solar-node-p1-for-meshtastic und https://wiki.seeedstudio.com/get_started_with_meshcore_solar_node/
 
 
 
