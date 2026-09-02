@@ -362,6 +362,9 @@ Hin und wieder muss mal etwas schnell zusammengebaut werden. Wiederverwendbarkei
 #### Speicherlösungen ausm Baugewerbe
 - [nagel : Energiespeicher](https://www.nagel-baugeraeteshop.de/shop.php?cat=673112555&name=Energiespeicher&SessID=fa3d92f373593dc3615977663c7b197f)
 
+#### PV Speicherlösungen für Landwirtschaft
+- [Fenecon :: aus Bayern](https://www.fenecon.de/fenecon-landwirtschaft)
+
 ## Kreislauf / System Design Aspekte für unsere Market Garden
 
 Wir haben eine Streuobstwiese in einem Naturschutzgebiet nicht weit entfernt von unserer Ackerfläche. Es fallen somit regelmäßig viel Gehölzschnitt an. Auch andere Initiativen, wie z.B. NABU Ober-Mörlen versinklen förmlich in Gehölzschnitt. Also in allem eine gute Kohlenstoffquelle
